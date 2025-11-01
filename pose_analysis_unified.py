@@ -20,6 +20,10 @@ from pose_detector import PoseDetector, get_available_detectors, select_detector
 # Globální proměnná pro typ detektoru
 CURRENT_DETECTOR_TYPE = "mediapipe"
 
+# Globální proměnná pro custom confidence threshold
+# Pokud je None, použije se adaptivní threshold podle detektoru
+CUSTOM_CONFIDENCE_THRESHOLD = None
+
 
 def filter_valid(data):
     """Filtruje platné hodnoty (bez None)"""
@@ -27,10 +31,25 @@ def filter_valid(data):
 
 
 def is_valid(visibility, threshold=None, detector_type=None):
-    """Kontroluje, zda je bod dostatečně viditelný s adaptivním threshold podle detektoru"""
+    """
+    Kontroluje, zda je bod dostatečně viditelný
+    
+    Args:
+        visibility: confidence/visibility hodnota keypoints
+        threshold: Custom threshold (pokud je None, použije se globální CUSTOM_CONFIDENCE_THRESHOLD)
+        detector_type: Typ detektoru (mediapipe/movenet/openpose)
+    
+    Returns:
+        True pokud je visibility >= threshold
+    """
     if detector_type is None:
         detector_type = CURRENT_DETECTOR_TYPE
-        
+    
+    # Nejdřív zkus globální custom threshold
+    if threshold is None and CUSTOM_CONFIDENCE_THRESHOLD is not None:
+        threshold = CUSTOM_CONFIDENCE_THRESHOLD
+    
+    # Pokud stále není threshold, použij adaptivní
     if threshold is None:
         # Adaptivní threshold podle detektoru
         if detector_type.startswith("movenet"):
@@ -41,6 +60,34 @@ def is_valid(visibility, threshold=None, detector_type=None):
             threshold = 0.8  # Středně přísný pro MediaPipe
     
     return visibility >= threshold
+
+
+def normalize_angle(angle):
+    """
+    Normalizuje úhel pro fyzické interpretaci.
+    Když je úhel velmi blízko 0° (< 2°), ale má fyzikální smysl být blízko 180°,
+    měníme ho na 180°. To řeší problém kde koleno skoro rovně vrací 0.1° místo 180°.
+    
+    Args:
+        angle: Úhel v stupních (0-180+)
+    
+    Returns:
+        Normalizovaný úhel (0-180)
+    """
+    if angle is None:
+        return None
+    
+    # Pokud je úhel velmi blízko 0° (ale není přesně 0), může to být 180° zabalený
+    # To se stane když se cos_angle vrátí jako -1.0 ale s malou chybou
+    if angle < 2.0:  # Pokud je menší než 2°
+        # Může to být otočené 180°, nastavíme na 180°
+        return 180.0
+    
+    # Pokud je úhel mezi 178° a 182° (přibližně 180°), nastavíme na 180°
+    if 178.0 <= angle <= 182.0:
+        return 180.0
+    
+    return angle
 
 
 def calculate_angle(aX, aY, bX, bY, cX, cY):
@@ -69,7 +116,45 @@ def calculate_angle(aX, aY, bX, bY, cX, cY):
     angle_rad = math.acos(cos_angle)
     angle_deg = math.degrees(angle_rad)
     
+    # Normalizace úhlu (opravuje 0.1° vs 180° problém)
+    angle_deg = normalize_angle(angle_deg)
+    
     return angle_deg
+
+
+def correct_angle_for_limb_direction(angle, joint_x, center_x, is_right_limb):
+    """
+    Opravuje úhel pokud je > 180° na základě pozice kloubu vůči tělu.
+    
+    Pro pravý loket: pokud je loket MORE VLEVO (menší X) než rameno -> úhel je z druhé strany
+    Pro levý loket: pokud je loket MORE VPRAVO (větší X) než rameno -> úhel je z druhé strany
+    
+    Args:
+        angle: Naměřený úhel v stupních
+        joint_x: X souřadnice kloubu (loket/koleno)
+        center_x: X souřadnice centra (rameno/kyčel)
+        is_right_limb: True pokud jde o pravou stranu těla, False pro levou
+    
+    Returns:
+        Oprávený úhel (0-180°)
+    """
+    if angle is None:
+        return None
+    
+    # Určení zdali je kloub na "špatné" straně
+    if is_right_limb:
+        # Pro pravou stranu: loket by měl být VPRAVO od ramene (větší X)
+        is_wrong_side = joint_x < center_x  # Loket je VLEVO = špatná strana
+    else:
+        # Pro levou stranu: loket by měl být VLEVO od ramene (menší X)
+        is_wrong_side = joint_x > center_x  # Loket je VPRAVO = špatná strana
+    
+    # Pokud je kloub na špatné straně a úhel je > 90°, je to z druhé strany
+    if is_wrong_side and angle > 90:
+        corrected_angle = 360 - angle
+        return corrected_angle
+    
+    return angle
 
 
 def draw_angle_arc(frame, center, point1, point2, angle, radius=30, color=(0, 255, 255)):
@@ -143,7 +228,9 @@ def calculate_right_shoulder(keypoints):
     shoulder_x, shoulder_y = keypoints[12 * 3], keypoints[12 * 3 + 1]
     elbow_x, elbow_y = keypoints[14 * 3], keypoints[14 * 3 + 1]
     
-    return calculate_angle(hip_x, hip_y, shoulder_x, shoulder_y, elbow_x, elbow_y)
+    angle = calculate_angle(hip_x, hip_y, shoulder_x, shoulder_y, elbow_x, elbow_y)
+    # Oprava pokud je loket vlevo od ramene (nefiziologické - ruka je překřížená)
+    return correct_angle_for_limb_direction(angle, elbow_x, shoulder_x, is_right_limb=False)
 
 
 def calculate_left_shoulder(keypoints):
@@ -155,7 +242,9 @@ def calculate_left_shoulder(keypoints):
     shoulder_x, shoulder_y = keypoints[11 * 3], keypoints[11 * 3 + 1]
     elbow_x, elbow_y = keypoints[13 * 3], keypoints[13 * 3 + 1]
     
-    return calculate_angle(hip_x, hip_y, shoulder_x, shoulder_y, elbow_x, elbow_y)
+    angle = calculate_angle(hip_x, hip_y, shoulder_x, shoulder_y, elbow_x, elbow_y)
+    # Oprava pokud je loket vpravo od ramene (nefiziologické - ruka je překřížená)
+    return correct_angle_for_limb_direction(angle, elbow_x, shoulder_x, is_right_limb=True)
 
 
 def calculate_right_hip(keypoints):
@@ -193,6 +282,10 @@ def calculate_right_knee(keypoints):
     
     angle = calculate_angle(hip_x, hip_y, knee_x, knee_y, ankle_x, ankle_y)
     
+    # Pokud je úhel blízko 180°, je to skoro rovné koleno - necháme ho
+    if angle is not None and angle >= 160:  # Již normalizováno na 180° nebo blízko
+        return angle
+    
     # Korekce pro úhly menší než 90° - kontrola pozice kotníku vůči kolenu
     if angle is not None and angle < 90:
         # Pokud je kotník pod kolenem (y-ová souřadnice větší), je to pokrčené koleno
@@ -212,6 +305,10 @@ def calculate_left_knee(keypoints):
     ankle_x, ankle_y = keypoints[27 * 3], keypoints[27 * 3 + 1]
     
     angle = calculate_angle(hip_x, hip_y, knee_x, knee_y, ankle_x, ankle_y)
+    
+    # Pokud je úhel blízko 180°, je to skoro rovné koleno - necháme ho
+    if angle is not None and angle >= 160:  # Již normalizováno na 180° nebo blízko
+        return angle
     
     # Korekce pro úhly menší než 90° - kontrola pozice kotníku vůči kolenu
     if angle is not None and angle < 90:
@@ -251,7 +348,7 @@ def draw_angle_on_frame(frame, keypoints, angle, joint_indices, text_position, j
         draw_angle_arc(frame, center, points[0], points[2], angle, radius=40)
         
         # Text s úhlem
-        text = f"{joint_name}: {angle:.1f}°"
+        text = f"{joint_name}: {angle:.1f} Stupnu"
         cv2.putText(frame, text, text_position, cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
 
 
@@ -344,9 +441,9 @@ def analyze_video(video_path, output_folder="pose_analysis_output", detector_typ
     # Inicializace pose detectoru
     try:
         pose_detector = PoseDetector(detector_type)
-        print(f"✅ {detector_type.upper()} úspěšně inicializován")
+        print(f"{detector_type.upper()} úspěšně inicializován")
     except Exception as e:
-        print(f"❌ Chyba při inicializaci {detector_type}: {e}")
+        print(f"Chyba při inicializaci {detector_type}: {e}")
         return None
     
     # Otevření videa
@@ -475,8 +572,8 @@ def main():
     parser.add_argument("--video", "-v", type=str, default="video/RLelb_RLshou_RLknee.mp4",
                        help="Cesta k video souboru")
     parser.add_argument("--detector", "-d", type=str, 
-                       choices=["mediapipe", "movenet_lightning", "movenet_thunder", "openpose"],
-                       help="Typ pose detektoru (mediapipe/movenet_lightning/movenet_thunder/openpose)")
+                       choices=["mediapipe", "movenet_lightning", "movenet_thunder", "openpose", "yolo11n", "yolo11x"],
+                       help="Typ pose detektoru (mediapipe/movenet_lightning/movenet_thunder/openpose/yolo11n/yolo11x)")
     parser.add_argument("--output", "-o", type=str, default="pose_analysis_output",
                        help="Výstupní složka")
     parser.add_argument("--interactive", "-i", action="store_true",
