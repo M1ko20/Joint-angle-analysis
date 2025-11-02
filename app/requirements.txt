@@ -10,3 +10,7 @@ tensorflow-hub>=0.16.0
 ultralytics>=8.0.0
 opencv-contrib-python>=4.8.0,<4.12
 protobuf>=4.25.3,<5
+# ViTPose dependencies
+transformers>=4.30.0
+torch>=2.0.0
+accelerate>=0.20.0

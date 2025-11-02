@@ -74,13 +74,24 @@ class MainWindow(QMainWindow):
         layout.addWidget(QLabel("Model detekce:"))
         self.model_combo = QComboBox()
         self.model_combo.addItems([
-            "MediaPipe",
-            "MoveNet Lightning",
-            "MoveNet Thunder",
-            "YOLO11n",
-            "YOLO11x"
+            "MediaPipe - Image",
+            "MediaPipe - Video",
+            "MoveNet Lightning - Image",
+            "MoveNet Lightning - Video",
+            "MoveNet Thunder - Image",
+            "MoveNet Thunder - Video",
+            "YOLO11n - Image",
+            "YOLO11x - Image",
+            "ViTPose - Image"
         ])
+        self.model_combo.currentTextChanged.connect(self._on_model_changed)
         layout.addWidget(self.model_combo)
+        
+        # Info o režimu
+        self.mode_info_label = QLabel()
+        self.mode_info_label.setStyleSheet("color: #666; font-style: italic; font-size: 10px;")
+        self.mode_info_label.setWordWrap(True)
+        layout.addWidget(self.mode_info_label)
         
         layout.addWidget(QLabel("Měřené klouby:"))
         joints_group = self._create_joints_checkboxes()
@@ -96,8 +107,20 @@ class MainWindow(QMainWindow):
         self.confidence_spin.setSingleStep(0.05)
         params_layout.addWidget(self.confidence_spin, 0, 1)
         
+        # Smooth factor (pouze pro Video režim)
+        self.smooth_label = QLabel("Smooth factor:")
+        params_layout.addWidget(self.smooth_label, 1, 0)
+        self.smooth_spin = QDoubleSpinBox()
+        self.smooth_spin.setRange(0.0, 1.0)
+        self.smooth_spin.setValue(0.3)
+        self.smooth_spin.setSingleStep(0.1)
+        self.smooth_spin.setToolTip("0.0 = bez vyhlazování, 1.0 = maximální vyhlazování")
+        params_layout.addWidget(self.smooth_spin, 1, 1)
         
         layout.addLayout(params_layout)
+        
+        # Aktualizuj mode info (teď už existují všechny widgety)
+        self._update_mode_info()
         
         self.analyze_btn = QPushButton("Spustit analýzu")
         self.analyze_btn.clicked.connect(self._start_analysis)
@@ -572,14 +595,16 @@ class MainWindow(QMainWindow):
         
         # Vytvoř worker thread
         selected_joints = [key for key, checkbox in self.joint_checks.items() if checkbox.isChecked()]
-        model_name = self._get_model_name()
+        model_name, mode = self._get_model_name()
         
         self.analysis_worker = AnalysisWorker(
             self.video_path,
             model_name,
             selected_joints,
             self.confidence_spin.value(),
-            self.video_rotation  
+            self.video_rotation,
+            mode,  # Přidán parametr režimu
+            self.smooth_spin.value()  # Přidán smooth factor
         )
         
         self.analysis_thread = QThread()
@@ -682,15 +707,55 @@ class MainWindow(QMainWindow):
         self.info_text.setHtml(info_html)
     
     def _get_model_name(self):
-        """Vrátí internalní název modelu"""
+        """
+        Vrátí internalní název modelu a režim
+        Returns: (model_name, mode) kde mode je 'image' nebo 'video'
+        """
+        text = self.model_combo.currentText()
+        
+        # Parse formát "ModelName - Mode"
+        if " - " in text:
+            model_part, mode_part = text.split(" - ", 1)
+            mode = mode_part.lower()  # "image" nebo "video"
+        else:
+            # Fallback pro starý formát
+            model_part = text
+            mode = "image"
+        
         model_map = {
             "MediaPipe": "mediapipe",
             "MoveNet Lightning": "movenet_lightning",
             "MoveNet Thunder": "movenet_thunder",
             "YOLO11n": "yolo11n",
             "YOLO11x": "yolo11x",
+            "ViTPose": "vitpose",
         }
-        return model_map.get(self.model_combo.currentText(), "mediapipe")
+        
+        model_name = model_map.get(model_part, "mediapipe")
+        return model_name, mode
+    
+    def _on_model_changed(self):
+        """Volá se při změně modelu"""
+        self._update_mode_info()
+    
+    def _update_mode_info(self):
+        """Aktualizuje info text o režimu a zobrazí/skryje smooth factor"""
+        model_name, mode = self._get_model_name()
+        
+        if mode == "video":
+            info = "📹 Video režim: Tracking a vyhlazování pro plynulejší výsledky"
+            self.mode_info_label.setStyleSheet("color: #00aa00; font-style: italic; font-size: 10px; font-weight: bold;")
+            # Zobraz smooth factor pro video režim
+            self.smooth_label.setVisible(True)
+            self.smooth_spin.setVisible(True)
+        else:
+            info = "🖼️ Image režim: Každý snímek zpracován nezávisle"
+            self.mode_info_label.setStyleSheet("color: #666; font-style: italic; font-size: 10px;")
+            # Skryj smooth factor pro image režim
+            self.smooth_label.setVisible(False)
+            self.smooth_spin.setVisible(False)
+        
+        self.mode_info_label.setText(info)
     
     def _export_json(self):
         """Exportuje výsledky do JSON - strukturováno po framech"""

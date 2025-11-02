@@ -15,6 +15,7 @@ import numpy as np
 
 # Importuj detektory a analýzu - z Analyses adresáře
 from pose_detector import PoseDetector
+from video_pose_detector import VideoPoseDetector
 from pose_analysis_unified import (
     calculate_right_elbow, calculate_left_elbow,
     calculate_right_shoulder, calculate_left_shoulder,
@@ -27,13 +28,15 @@ class AnalysisWorker(QObject):
     progress = pyqtSignal(int, dict)  # (progress_percent, frame_data)
     finished = pyqtSignal(dict)  # (results)
     
-    def __init__(self, video_path, model_name, selected_joints, confidence_threshold, rotation=0):
+    def __init__(self, video_path, model_name, selected_joints, confidence_threshold, rotation=0, mode='image', smooth_factor=0.3):
         super().__init__()
         self.video_path = video_path
         self.model_name = model_name
         self.selected_joints = selected_joints
         self.confidence_threshold = confidence_threshold
         self.rotation = rotation  # Rotace videa (0, 90, 180, 270)
+        self.mode = mode  # 'image' nebo 'video'
+        self.smooth_factor = smooth_factor  # Smooth factor pro video režim (0-1)
         
         # Mapování výpočtů úhlů
         self.angle_calculators = {
@@ -69,8 +72,20 @@ class AnalysisWorker(QObject):
             # Nastav global confidence threshold pro is_valid() v pose_analysis_unified
             pose_analysis_unified.CUSTOM_CONFIDENCE_THRESHOLD = self.confidence_threshold
             
-            # Inicializuj detektor
-            detector = PoseDetector(self.model_name)
+            # Inicializuj detektor podle režimu
+            if self.mode == 'video':
+                detector = VideoPoseDetector(
+                    self.model_name, 
+                    smooth_factor=self.smooth_factor,
+                    confidence_threshold=self.confidence_threshold
+                )
+                print(f"✓ Použit VIDEO režim pro {self.model_name} (confidence={self.confidence_threshold}, smooth={self.smooth_factor})")
+            else:
+                detector = PoseDetector(
+                    self.model_name,
+                    confidence_threshold=self.confidence_threshold
+                )
+                print(f"✓ Použit IMAGE režim pro {self.model_name} (confidence={self.confidence_threshold})")
             
             # Otevři video
             cap = cv2.VideoCapture(self.video_path)
@@ -125,7 +140,6 @@ class AnalysisWorker(QObject):
             
             cap.release()
             
-            # Připrav výsledky - exportuj VŠE včetně všech 600 frames
             results = {
                 'video_path': self.video_path,
                 'model': self.model_name,
@@ -148,7 +162,6 @@ class AnalysisWorker(QObject):
         """Vypočítá statistiky pro úhly"""
         stats = {}
 
-        # Build per-joint list of (frame_index, angle) from keypoints_data to preserve absolute frame numbers
         joint_frame_angles = {joint: [] for joint in angles_data.keys()}
 
         for entry in keypoints_data:

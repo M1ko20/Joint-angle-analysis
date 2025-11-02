@@ -95,30 +95,25 @@ def calculate_angle(aX, aY, bX, bY, cX, cY):
     # Vektory BA a BC
     vec_ba = (aX - bX, aY - bY)
     vec_bc = (cX - bX, cY - bY)
-    
-    # Skalární součin
-    dot_product = vec_ba[0] * vec_bc[0] + vec_ba[1] * vec_bc[1]
-    
-    # Délky vektorů
-    mag_ba = math.sqrt(vec_ba[0]**2 + vec_ba[1]**2)
-    mag_bc = math.sqrt(vec_bc[0]**2 + vec_bc[1]**2)
-    
-    if mag_ba == 0 or mag_bc == 0:
-        return None
-        
-    # Kosinus úhlu
-    cos_angle = dot_product / (mag_ba * mag_bc)
-    
-    # Zajištění, že kosinus je v rozmezí [-1, 1]
-    cos_angle = max(-1, min(1, cos_angle))
-    
-    # Úhel v radiánech a převod na stupně
-    angle_rad = math.acos(cos_angle)
-    angle_deg = math.degrees(angle_rad)
+
+    # Výpočet úhlu pomocí atan2
+    angle1 = np.arctan2(vec_ba[1], vec_ba[0])
+    angle2 = np.arctan2(vec_bc[1], vec_bc[0])
+
+    # Rozdíl úhlů a převod na stupně
+    angle_rad = angle2 - angle1
+    angle_deg = np.degrees(angle_rad)
+
+    # Normalizace úhlu na 0-360
+    angle_deg = abs(angle_deg)
+
+    # Korekce na 0-180, pokud je to žádoucí
+    if angle_deg > 180:
+        angle_deg = 360 - angle_deg
     
     # Normalizace úhlu (opravuje 0.1° vs 180° problém)
     angle_deg = normalize_angle(angle_deg)
-    
+
     return angle_deg
 
 

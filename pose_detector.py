@@ -7,6 +7,10 @@ import numpy as np
 import os
 import sys
 
+# Vynucení CPU pro PyTorch (prevence bus error na MPS)
+os.environ['PYTORCH_ENABLE_MPS_FALLBACK'] = '1'
+os.environ['PYTORCH_MPS_HIGH_WATERMARK_RATIO'] = '0.0'  # Vypne MPS
+
 try:
     import mediapipe as mp
     MEDIAPIPE_AVAILABLE = True
@@ -74,7 +78,16 @@ except ImportError:
 
 try:
     import torch
-    import torch.nn as nn
+    from PIL import Image
+    
+    # Importy z transformers - různé verze mají různá API
+    try:
+        from transformers import AutoImageProcessor as AutoProcessor
+    except ImportError:
+        from transformers import AutoProcessor
+    
+    from transformers import VitPoseForPoseEstimation, RTDetrForObjectDetection
+    
     VITPOSE_AVAILABLE = True
     
     # ViTPose COCO pose keypoints mapping (stejné jako YOLO)
@@ -85,17 +98,26 @@ try:
         'left_knee', 'right_knee', 'left_ankle', 'right_ankle'
     ]
     
+    # ViTPose skeleton connections
+    VITPOSE_SKELETON = [
+        (0, 1), (0, 2), (1, 3), (2, 4),  # Head
+        (5, 6), (5, 7), (7, 9), (6, 8), (8, 10),  # Arms
+        (5, 11), (6, 12), (11, 12),  # Torso
+        (11, 13), (13, 15), (12, 14), (14, 16)  # Legs
+    ]
+    
 except ImportError:
     VITPOSE_AVAILABLE = False
-    print("ViTPose není k dispozici. Nainstalujte: pip install torch torchvision")
+    print("ViTPose není k dispozici. Nainstalujte: pip install transformers torch pillow accelerate")
 
 
 class PoseDetector:
     """Abstraktní třída pro pose detection"""
     
-    def __init__(self, detector_type="mediapipe"):
+    def __init__(self, detector_type="mediapipe", confidence_threshold=0.5):
         self.detector_type = detector_type.lower()
         self.detector = None
+        self.confidence_threshold = confidence_threshold
         self._initialize_detector()
     
     def _initialize_detector(self):
@@ -128,14 +150,15 @@ class PoseDetector:
         self.mp_pose = mp.solutions.pose
         self.mp_drawing = mp.solutions.drawing_utils
         self.mp_drawing_styles = mp.solutions.drawing_styles
-        self.detector = self.mp_pose.Pose( #nastaveni ktere by bylo fajn se kouknout
-            static_image_mode=False,
+        # IMAGE MODE - static_image_mode=True (každý frame nezávisle)
+        self.detector = self.mp_pose.Pose(
+            static_image_mode=True,  # ← IMAGE režim
             model_complexity=2,
             enable_segmentation=False,
-            min_detection_confidence=0.5, #KONFIDENCE!
-            min_tracking_confidence=0.5
+            min_detection_confidence=self.confidence_threshold,
+            min_tracking_confidence=self.confidence_threshold
         )
-        print("MediaPipe inicializován")
+        print(f"MediaPipe inicializován (Image režim, confidence={self.confidence_threshold})")
     
     def _init_movenet(self):
         """Inicializuje MoveNet"""
@@ -153,7 +176,9 @@ class PoseDetector:
             self.detector = hub.load(model_url)
             self.movenet = self.detector.signatures['serving_default']
             self.crop_region = None
-            print(f"MoveNet inicializován ({model_name})")
+            # MoveNet používá confidence pro crop detection
+            self.movenet_conf_threshold = self.confidence_threshold
+            print(f"MoveNet inicializován ({model_name}, confidence={self.confidence_threshold})")
         except Exception as e:
             print(f"Chyba při načítání MoveNet modelu: {e}")
             raise
@@ -203,61 +228,92 @@ class PoseDetector:
             # Načti YOLO model
             self.detector = YOLO(model_path)
             
-            # Konfigurace
-            self.yolo_conf_threshold = 0.9  
+            # Konfigurace - použij confidence z UI
+            self.yolo_conf_threshold = self.confidence_threshold
             self.yolo_iou_threshold = 0.9   
             
-            print(f"YOLO11 inicializován ({model_path})")
+            print(f"YOLO11 inicializován ({model_path}, confidence={self.confidence_threshold})")
         except Exception as e:
             print(f"Chyba při načítání YOLO11 modelu: {e}")
             raise
     
     def _init_vitpose(self):
-        """Inicializuje ViTPose model - pure PyTorch bez mmpose (Mac compatible)"""
-        model_name = "vitpose-l.pth"
+        """Inicializuje ViTPose model pomocí Hugging Face Transformers (Mac compatible)"""
+        model_name = "usyd-community/vitpose-base-simple"
         
         try:
-            # Hledej model v Analysis adresáři
-            analysis_dir = os.path.dirname(os.path.abspath(__file__))
-            model_path = os.path.join(analysis_dir, model_name)
+            # VŽDY používej CPU - MPS způsobuje bus error u velkých modelů
+            self.vitpose_device = "cpu"
+            print(f"🔧 Inicializuji ViTPose na CPU (bezpečný režim)...")
+            print(f"   Device: {self.vitpose_device}")
+            print(f"   Model: {model_name}")
+            print(f"   Confidence: {self.confidence_threshold}")
+            print(f"   ⚠️  Poznámka: ViTPose běží na CPU kvůli stabilitě (bus error na MPS)")
             
-            # Zkus z app adresáři
-            if not os.path.exists(model_path):
-                app_dir = os.path.join(analysis_dir, "app")
-                model_path = os.path.join(app_dir, model_name)
+            # 1. Person detector (RT-DETR)
+            print("   Načítám person detector (RT-DETR)...")
+            try:
+                # Vynucený CPU režim
+                import os
+                os.environ['PYTORCH_ENABLE_MPS_FALLBACK'] = '1'
+                
+                self.vitpose_person_processor = AutoProcessor.from_pretrained(
+                    "PekingU/rtdetr_r50vd_coco_o365",
+                    cache_dir=None,
+                    local_files_only=False
+                )
+                self.vitpose_person_model = RTDetrForObjectDetection.from_pretrained(
+                    "PekingU/rtdetr_r50vd_coco_o365",
+                    cache_dir=None,
+                    local_files_only=False,
+                    torch_dtype=torch.float32  # Explicitně float32 pro CPU
+                )
+                
+                # VŽDY CPU
+                self.vitpose_person_model = self.vitpose_person_model.to("cpu")
+                self.vitpose_person_model.eval()  # Evaluation mode
+                print("   ✓ Person detector načten (CPU)")
+                    
+            except Exception as e:
+                raise RuntimeError(f"Chyba při načítání person detectoru: {e}")
             
-            # Zkus z aktuální složku
-            if not os.path.exists(model_path):
-                model_path = model_name
+            # 2. Pose estimator (ViTPose)
+            print("   Načítám pose estimator (ViTPose)...")
+            try:
+                self.vitpose_pose_processor = AutoProcessor.from_pretrained(
+                    model_name,
+                    cache_dir=None,
+                    local_files_only=False
+                )
+                self.vitpose_pose_model = VitPoseForPoseEstimation.from_pretrained(
+                    model_name,
+                    cache_dir=None,
+                    local_files_only=False,
+                    torch_dtype=torch.float32  # Explicitně float32 pro CPU
+                )
+                
+                # VŽDY CPU
+                self.vitpose_pose_model = self.vitpose_pose_model.to("cpu")
+                self.vitpose_pose_model.eval()  # Evaluation mode
+                print("   ✓ Pose estimator načten (CPU)")
+                    
+            except Exception as e:
+                raise RuntimeError(f"Chyba při načítání pose estimatoru: {e}")
             
-            print(f"ViTPose model hledám: {model_path}")
-            
-            if not os.path.exists(model_path):
-                raise FileNotFoundError(f"ViTPose model nebyl nalezen: {model_path}")
-            
-            # Načti checkpoint - podobně jako YOLO načítá model
-            print(f"Načítám ViTPose checkpoint z: {model_path}")
-            checkpoint = torch.load(model_path, map_location='cpu')
-            
-            # ViTPose používá YOLO11-like API, takže použijeme podobný přístup
-            # Pro teď jen načteme checkpoint a připravíme ho pro budoucí použití
             self.detector = {
-                'checkpoint': checkpoint,
-                'model': None,  # Model by vyžadoval mmpose build
-                'ready': False
+                'person_processor': self.vitpose_person_processor,
+                'person_model': self.vitpose_person_model,
+                'pose_processor': self.vitpose_pose_processor,
+                'pose_model': self.vitpose_pose_model,
+                'device': self.vitpose_device,
+                'ready': True
             }
             
-            device = 'cuda' if torch.cuda.is_available() else 'cpu'
-            self.vitpose_device = device
-            self.vitpose_input_size = (192, 256)  # width, height
-            
-            print(f"✓ ViTPose checkpoint načten ({model_path})")
-            print(f"  Zařízení: {device}")
-            print(f"  ⚠️  Poznámka: ViTPose vyžaduje mmpose framework pro plnou funkčnost")
-            print(f"  ⚠️  Model je připraven, ale inference není k dispozici na Macu bez kompilace")
+            print(f"✅ ViTPose úspěšně načten (device: {self.vitpose_device})")
             
         except Exception as e:
             print(f"✗ Chyba při inicializaci ViTPose: {e}")
+            print(f"💡 Tip: ViTPose vyžaduje: pip install transformers torch pillow accelerate")
             import traceback
             traceback.print_exc()
             raise
@@ -409,19 +465,108 @@ class PoseDetector:
         return None, None
     
     def _detect_vitpose(self, frame):
-        """ViTPose pose detection - Mac compatible placeholder"""
+        """ViTPose pose detection pomocí Hugging Face Transformers"""
         height, width = frame.shape[:2]
         
-        # ViTPose na Macu vyžaduje kompilovaný mmpose s C++ extensions
-        # Pro plnou funkcionalitu je potřeba:
-        # 1. Nainstalovat mmcv-full (vyžaduje kompilaci)
-        # 2. Nainstalovat mmpose
-        # 3. Build C++ extensions
+        # Konverze frame na PIL Image
+        frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        image = Image.fromarray(frame_rgb)
         
-        print("[ViTPose] ⚠️  Model není k dispozici na Macu bez kompilace mmpose")
-        print("[ViTPose] Použijte jiný detektor (mediapipe, movenet, yolo)")
-        
-        return None, None
+        try:
+            # Krok 1: Detekuj osoby
+            person_boxes = self._detect_persons_vitpose(image)
+            
+            if person_boxes is None or len(person_boxes) == 0:
+                return None, None
+            
+            # Krok 2: Detekuj keypoints pro každou osobu
+            pose_results = self._detect_keypoints_vitpose(image, person_boxes)
+            
+            if not pose_results:
+                return None, None
+            
+            # Převeď na MediaPipe formát (nejlepší detekce)
+            best_result = pose_results[0]  # Bere první (nejlepší) detekci
+            keypoints_array = self._convert_vitpose_to_mediapipe_format(
+                best_result['keypoints'],
+                best_result['scores'],
+                width,
+                height
+            )
+            
+            return keypoints_array, pose_results
+            
+        except Exception as e:
+            print(f"⚠️  ViTPose detekce selhala: {e}")
+            return None, None
+    
+    def _detect_persons_vitpose(self, image):
+        """Detekuje osoby v obrázku pomocí RT-DETR"""
+        try:
+            inputs = self.vitpose_person_processor(images=image, return_tensors="pt")
+            
+            # VŽDY CPU - žádné MPS
+            inputs = {k: v.to("cpu") if hasattr(v, 'to') else v for k, v in inputs.items()}
+            
+            with torch.no_grad():
+                outputs = self.vitpose_person_model(**inputs)
+            
+            # Post-process detekce
+            results = self.vitpose_person_processor.post_process_object_detection(
+                outputs,
+                target_sizes=torch.tensor([(image.height, image.width)]),
+                threshold=0.3
+            )
+            
+            if not results:
+                return None
+            
+            result = results[0]
+            
+            # Filtruj pouze osoby (label 0 v COCO)
+            person_mask = result["labels"] == 0
+            person_boxes = result["boxes"][person_mask]
+            
+            if len(person_boxes) == 0:
+                return None
+            
+            # Konverze z VOC (x1,y1,x2,y2) na COCO (x1,y1,w,h)
+            person_boxes = person_boxes.cpu().numpy()
+            person_boxes[:, 2] = person_boxes[:, 2] - person_boxes[:, 0]  # width
+            person_boxes[:, 3] = person_boxes[:, 3] - person_boxes[:, 1]  # height
+            
+            return person_boxes
+            
+        except Exception as e:
+            print(f"⚠️  Person detection selhala: {e}")
+            return None
+    
+    def _detect_keypoints_vitpose(self, image, boxes):
+        """Detekuje keypoints pro dané bounding boxy"""
+        try:
+            inputs = self.vitpose_pose_processor(
+                image,
+                boxes=[boxes],
+                return_tensors="pt"
+            )
+            
+            # VŽDY CPU - žádné MPS
+            inputs = {k: v.to("cpu") if hasattr(v, 'to') else v for k, v in inputs.items()}
+            
+            with torch.no_grad():
+                outputs = self.vitpose_pose_model(**inputs)
+            
+            # Post-process
+            pose_results = self.vitpose_pose_processor.post_process_pose_estimation(
+                outputs,
+                boxes=[boxes]
+            )
+            
+            return pose_results[0] if pose_results else []
+            
+        except Exception as e:
+            print(f"⚠️  Keypoint detection selhala: {e}")
+            return []
     
     def _heatmap_to_keypoints(self, heatmaps, img_w, img_h):
         """Konvertuje heatmapy na keypoints souřadnice"""
@@ -438,11 +583,43 @@ class PoseDetector:
         
         return keypoints
     
-    def _convert_vitpose_to_mediapipe_format(self, vitpose_keypoints, width, height):
+    def _convert_vitpose_to_mediapipe_format(self, vitpose_keypoints, scores, width, height):
         """Převádí ViTPose (COCO 17) keypoints na MediaPipe formát (33 bodů)"""
-        # ViTPose má stejné keypoints jako YOLO (COCO format)
-        # Použijeme stejnou konverzi
-        return self._convert_yolo_to_mediapipe_format(vitpose_keypoints, width, height)
+        mediapipe_keypoints = [0.0] * (33 * 3)
+        
+        # ViTPose COCO -> MediaPipe mapping
+        mapping = {
+            0: 0,   # nose
+            1: 2,   # left_eye
+            2: 5,   # right_eye
+            3: 7,   # left_ear
+            4: 8,   # right_ear
+            5: 11,  # left_shoulder
+            6: 12,  # right_shoulder
+            7: 13,  # left_elbow
+            8: 14,  # right_elbow
+            9: 15,  # left_wrist
+            10: 16, # right_wrist
+            11: 23, # left_hip
+            12: 24, # right_hip
+            13: 25, # left_knee
+            14: 26, # right_knee
+            15: 27, # left_ankle
+            16: 28, # right_ankle
+        }
+        
+        for vitpose_idx, mediapipe_idx in mapping.items():
+            if vitpose_idx < len(vitpose_keypoints):
+                x, y = vitpose_keypoints[vitpose_idx]
+                confidence = scores[vitpose_idx] if vitpose_idx < len(scores) else 0.0
+                
+                if confidence > self.confidence_threshold:
+                    base_idx = mediapipe_idx * 3
+                    mediapipe_keypoints[base_idx] = float(x)
+                    mediapipe_keypoints[base_idx + 1] = float(y)
+                    mediapipe_keypoints[base_idx + 2] = float(confidence)
+        
+        return mediapipe_keypoints
     
     def _convert_movenet_to_mediapipe_format(self, movenet_keypoints, width, height):
         """Převádí MoveNet keypoints na MediaPipe formát"""
@@ -478,7 +655,9 @@ class PoseDetector:
             if movenet_idx < len(movenet_keypoints):
                 y_norm, x_norm, confidence = movenet_keypoints[movenet_idx]
                 
-                if confidence > MIN_CROP_KEYPOINT_SCORE:  # Použití oficiálního threshold
+                # Použij confidence z UI
+                min_conf = self.movenet_conf_threshold if hasattr(self, 'movenet_conf_threshold') else MIN_CROP_KEYPOINT_SCORE
+                if confidence > min_conf:
                     # Převod normalizovaných souřadnic na pixely
                     x = x_norm * width
                     y = y_norm * height
@@ -600,6 +779,9 @@ class PoseDetector:
         elif self.detector_type in ["yolo11n", "yolo11x", "yolo"] and detection_result is not None:
             # YOLO11 vykreslení
             self._draw_yolo_keypoints(frame, detection_result)
+        elif self.detector_type == "vitpose" and detection_result is not None:
+            # ViTPose vykreslení
+            self._draw_vitpose_keypoints(frame, detection_result)
     
     def _draw_movenet_keypoints(self, frame, keypoints):
         """Vykreslí MoveNet keypoints do snímku"""
@@ -708,6 +890,46 @@ class PoseDetector:
         except Exception as e:
             print(f"Chyba při vykreslování YOLO keypoints: {e}")
     
+    def _draw_vitpose_keypoints(self, frame, detection_result):
+        """Vykresli ViTPose keypoints do snímku"""
+        if detection_result is None or not detection_result:
+            return
+        
+        try:
+            result = detection_result[0]  # První (nejlepší) detekce
+            keypoints = result['keypoints']
+            scores = result['scores']
+            
+            # Vykreslení bodů
+            for i, (x, y) in enumerate(keypoints):
+                if scores[i] > self.confidence_threshold:
+                    cv2.circle(frame, (int(x), int(y)), 4, (0, 255, 0), -1)
+                    
+                    # Popisek (volitelně)
+                    if i < len(VITPOSE_KEYPOINT_NAMES):
+                        cv2.putText(
+                            frame,
+                            VITPOSE_KEYPOINT_NAMES[i][:3],
+                            (int(x) + 5, int(y) - 5),
+                            cv2.FONT_HERSHEY_SIMPLEX,
+                            0.3,
+                            (255, 255, 255),
+                            1
+                        )
+            
+            # Vykreslení skeletu
+            for start_idx, end_idx in VITPOSE_SKELETON:
+                if (start_idx < len(keypoints) and end_idx < len(keypoints) and
+                    scores[start_idx] > self.confidence_threshold and
+                    scores[end_idx] > self.confidence_threshold):
+                    
+                    start_point = (int(keypoints[start_idx][0]), int(keypoints[start_idx][1]))
+                    end_point = (int(keypoints[end_idx][0]), int(keypoints[end_idx][1]))
+                    cv2.line(frame, start_point, end_point, (255, 0, 0), 2)
+                    
+        except Exception as e:
+            print(f"⚠️  Chyba při vykreslování ViTPose: {e}")
+    
     def _init_crop_region(self, image_height, image_width):
         """Definuje výchozí crop region podle oficiální dokumentace"""
         if image_width > image_height:
@@ -732,10 +954,11 @@ class PoseDetector:
     
     def _torso_visible(self, keypoints):
         """Kontroluje, zda jsou viditelné dostatečné torso keypoints"""
-        return ((keypoints[0, 0, KEYPOINT_DICT['left_hip'], 2] > MIN_CROP_KEYPOINT_SCORE or
-                keypoints[0, 0, KEYPOINT_DICT['right_hip'], 2] > MIN_CROP_KEYPOINT_SCORE) and
-               (keypoints[0, 0, KEYPOINT_DICT['left_shoulder'], 2] > MIN_CROP_KEYPOINT_SCORE or
-                keypoints[0, 0, KEYPOINT_DICT['right_shoulder'], 2] > MIN_CROP_KEYPOINT_SCORE))
+        min_conf = self.movenet_conf_threshold if hasattr(self, 'movenet_conf_threshold') else MIN_CROP_KEYPOINT_SCORE
+        return ((keypoints[0, 0, KEYPOINT_DICT['left_hip'], 2] > min_conf or
+                keypoints[0, 0, KEYPOINT_DICT['right_hip'], 2] > min_conf) and
+               (keypoints[0, 0, KEYPOINT_DICT['left_shoulder'], 2] > min_conf or
+                keypoints[0, 0, KEYPOINT_DICT['right_shoulder'], 2] > min_conf))
     
     def _determine_crop_region(self, keypoints, image_height, image_width):
         """Určuje region pro ořezání podle oficiální dokumentace"""
@@ -761,8 +984,9 @@ class PoseDetector:
                 max_torso_xrange = max(max_torso_xrange, dist_x)
             
             max_body_yrange = max_body_xrange = 0.0
+            min_conf = self.movenet_conf_threshold if hasattr(self, 'movenet_conf_threshold') else MIN_CROP_KEYPOINT_SCORE
             for joint in KEYPOINT_DICT.keys():
-                if keypoints[0, 0, KEYPOINT_DICT[joint], 2] < MIN_CROP_KEYPOINT_SCORE:
+                if keypoints[0, 0, KEYPOINT_DICT[joint], 2] < min_conf:
                     continue
                 dist_y = abs(center_y - target_keypoints[joint][0])
                 dist_x = abs(center_x - target_keypoints[joint][1])
@@ -825,6 +1049,32 @@ class PoseDetector:
             self.detector.stop()
         elif self.detector_type in ["yolo11n", "yolo11x", "yolo"]:
             # YOLO modely nevyžadují speciální uzavření
+            self.detector = None
+        elif self.detector_type == "vitpose":
+            # ViTPose cleanup - agresivní uvolnění paměti
+            try:
+                del self.vitpose_person_model
+                del self.vitpose_pose_model
+                del self.vitpose_person_processor
+                del self.vitpose_pose_processor
+            except:
+                pass
+            
+            self.vitpose_person_model = None
+            self.vitpose_pose_model = None
+            self.vitpose_person_processor = None
+            self.vitpose_pose_processor = None
+            
+            # Uvolni PyTorch cache
+            try:
+                import gc
+                gc.collect()
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
+                # Ignoruj MPS kvůli bus error
+            except:
+                pass
+            
             self.detector = None
 
 

@@ -18,3 +18,5 @@ real.txt
 /app/yolo11x-pose.pt
 /app/vitpose-l.pth
 /app/venv
+merged.txt
+skript.py
