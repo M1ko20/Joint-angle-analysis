@@ -1,22 +1,101 @@
-/testovani
-/hovna
-/output
-/pose_analysis_output
-/tkinter
-/.venv
-/.idea
-/__pycache__
-/venv
-/ViTPose
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtuální prostředí
+venv/
+env/
+ENV/
+.venv
+.env
+
+# ============================================
+# MODEL VÁHY (VELKÉ SOUBORY)
+# ============================================
+# PyTorch modely
+*.pth
+*.pt
+
+# TensorFlow modely
+*.h5
+*.pb
+*.tflite
+
+# ONNX modely
+*.onnx
+
+# ============================================
+# VÝSTUPY A DATA
+# ============================================
+# Výstupní složky analýz
+output/
+outputvenv/
+output_graphs/
+pose_analysis_output/
+pose_analysis_output_3d/
+detector_test_output/
+rotation_check_output/
+
+
+# Dočasné soubory
+*.tmp
+*.temp
+/tmp/
+
+# ============================================
+# IDE A EDITORY
+# ============================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ============================================
+# TEST A DEBUG SLOŽKY
+# ============================================
+testovani/
+hovna/
+tkinter/
+app/
+
+# ============================================
+# SPECIFIC FILES
+# ============================================
 stahni.txt
 setup_dependencies.sh
-yolo11n-pose.pt
-yolo11x-pose.pt
 real.txt
-/video
-/app/yolo11n-pose.pt
-/app/yolo11x-pose.pt
-/app/vitpose-l.pth
-/app/venv
+realmereni.md
 merged.txt
 skript.py
+srackajmeno.txt
+
+# ============================================
+# MMPOSE (git submodule - ignoruj pokud není potřeba)
+# ============================================
+mmpose/
+ViTPose/
+RTMPose/
+
+# ============================================
+# LOG SOUBORY
+# ============================================
+*.log
+logs/
+
+# ============================================
+# JUPYTER NOTEBOOKS CHECKPOINTS
+# ============================================
+.ipynb_checkpoints/
+
+# ============================================
+# SYSTEM FILES
+# ============================================
+Thumbs.db
+desktop.ini

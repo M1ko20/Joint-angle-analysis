@@ -138,13 +138,14 @@ class PoseDetector:
             if not YOLO_AVAILABLE:
                 raise ImportError("YOLO není k dispozici")
             self._init_yolo()
-        elif self.detector_type == "vitpose":
+        elif self.detector_type in ["vitpose", "vitpose_base", "vitpose_large"]: # "vitpose_huge"
             if not VITPOSE_AVAILABLE:
                 raise ImportError("ViTPose není k dispozici")
             self._init_vitpose()
         else:
             raise ValueError(f"Neznámý typ detektoru: {self.detector_type}")
-    
+
+        
     def _init_mediapipe(self):
         """Inicializuje MediaPipe"""
         self.mp_pose = mp.solutions.pose
@@ -239,7 +240,16 @@ class PoseDetector:
     
     def _init_vitpose(self):
         """Inicializuje ViTPose model pomocí Hugging Face Transformers (Mac compatible)"""
-        model_name = "usyd-community/vitpose-base-simple"
+        
+        # Určení modelu podle detector_type
+        if self.detector_type == "vitpose_large":
+            model_name = "usyd-community/vitpose-plus-large"
+        #elif self.detector_type == "vitpose_huge":
+         #   model_name = "usyd-community/vitpose-plus-huge"
+        elif self.detector_type == "vitpose_base":
+            model_name = "usyd-community/vitpose-base-simple"
+        else:  # Default "vitpose"
+            model_name = "usyd-community/vitpose-plus-large"  # Default na large
         
         try:
             # VŽDY používej CPU - MPS způsobuje bus error u velkých modelů
@@ -278,7 +288,7 @@ class PoseDetector:
                 raise RuntimeError(f"Chyba při načítání person detectoru: {e}")
             
             # 2. Pose estimator (ViTPose)
-            print("   Načítám pose estimator (ViTPose)...")
+            print(f"   Načítám pose estimator ({model_name})...")
             try:
                 self.vitpose_pose_processor = AutoProcessor.from_pretrained(
                     model_name,
@@ -295,7 +305,7 @@ class PoseDetector:
                 # VŽDY CPU
                 self.vitpose_pose_model = self.vitpose_pose_model.to("cpu")
                 self.vitpose_pose_model.eval()  # Evaluation mode
-                print("   ✓ Pose estimator načten (CPU)")
+                print(f"   ✓ Pose estimator načten ({model_name}, CPU)")
                     
             except Exception as e:
                 raise RuntimeError(f"Chyba při načítání pose estimatoru: {e}")
@@ -306,10 +316,11 @@ class PoseDetector:
                 'pose_processor': self.vitpose_pose_processor,
                 'pose_model': self.vitpose_pose_model,
                 'device': self.vitpose_device,
+                'model_name': model_name,
                 'ready': True
             }
             
-            print(f"✅ ViTPose úspěšně načten (device: {self.vitpose_device})")
+            print(f"✅ ViTPose úspěšně načten (device: {self.vitpose_device}, model: {model_name})")
             
         except Exception as e:
             print(f"✗ Chyba při inicializaci ViTPose: {e}")
@@ -317,7 +328,9 @@ class PoseDetector:
             import traceback
             traceback.print_exc()
             raise
-    
+
+
+
     def detect_pose(self, frame):
         """Detekuje pose v rámci a vrací normalizované keypoints"""
         if self.detector_type == "mediapipe":
@@ -328,9 +341,9 @@ class PoseDetector:
             return self._detect_openpose(frame)
         elif self.detector_type in ["yolo11n", "yolo11x", "yolo"]:
             return self._detect_yolo(frame)
-        elif self.detector_type == "vitpose":
+        elif self.detector_type in ["vitpose", "vitpose_base", "vitpose_large", "vitpose_huge"]:
             return self._detect_vitpose(frame)
-    
+            
     def _detect_mediapipe(self, frame):
         """MediaPipe pose detection"""
         height, width = frame.shape[:2]
@@ -553,9 +566,14 @@ class PoseDetector:
             # VŽDY CPU - žádné MPS
             inputs = {k: v.to("cpu") if hasattr(v, 'to') else v for k, v in inputs.items()}
             
+            # 🔑 OPRAVA: Kontrola multi-expert modelu
+            model_config = self.vitpose_pose_model.config
+
+            num_boxes = boxes.shape[0] if hasattr(boxes, 'shape') else len(boxes)
+            dataset_index_tensor = torch.tensor([0] * num_boxes, device="cpu")
+
             with torch.no_grad():
-                outputs = self.vitpose_pose_model(**inputs)
-            
+                outputs = self.vitpose_pose_model(**inputs, dataset_index=dataset_index_tensor)
             # Post-process
             pose_results = self.vitpose_pose_processor.post_process_pose_estimation(
                 outputs,
@@ -567,7 +585,6 @@ class PoseDetector:
         except Exception as e:
             print(f"⚠️  Keypoint detection selhala: {e}")
             return []
-    
     def _heatmap_to_keypoints(self, heatmaps, img_w, img_h):
         """Konvertuje heatmapy na keypoints souřadnice"""
         num_joints = heatmaps.shape[0]
@@ -1090,7 +1107,7 @@ def get_available_detectors():
     if YOLO_AVAILABLE:
         detectors.extend(["yolo11n", "yolo11x"])
     if VITPOSE_AVAILABLE:
-        detectors.append("vitpose")
+        detectors.extend(["vitpose_base", "vitpose_large", "vitpose_huge"])
     return detectors
 
 

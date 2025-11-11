@@ -743,13 +743,13 @@ class MainWindow(QMainWindow):
         model_name, mode = self._get_model_name()
         
         if mode == "video":
-            info = "📹 Video režim: Tracking a vyhlazování pro plynulejší výsledky"
+            info = "Video režim: Tracking a vyhlazování pro plynulejší výsledky"
             self.mode_info_label.setStyleSheet("color: #00aa00; font-style: italic; font-size: 10px; font-weight: bold;")
             # Zobraz smooth factor pro video režim
             self.smooth_label.setVisible(True)
             self.smooth_spin.setVisible(True)
         else:
-            info = "🖼️ Image režim: Každý snímek zpracován nezávisle"
+            info = "Image režim: Každý snímek zpracován nezávisle"
             self.mode_info_label.setStyleSheet("color: #666; font-style: italic; font-size: 10px;")
             # Skryj smooth factor pro image režim
             self.smooth_label.setVisible(False)
