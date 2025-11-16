@@ -1,0 +1,618 @@
+[
+  {
+    "joint": "right_shoulder",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 55.414031982421875,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 55.395111083984375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 57.669891357421875,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 57.0006103515625,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 60.21051025390625,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 60.96575927734375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 59.553558349609375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 58.066680908203125,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 62.458770751953125,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 62.816802978515625,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 168.6534881591797,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 164.10572814941406,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 162.443115234375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 161.04737854003906,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 159.97531127929688,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 153.04232788085938,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 147.29258728027344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 144.9123992919922,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 141.84414672851562,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 143.59214782714844,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 142.47935485839844,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 127.95417785644531,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 60.72711181640625,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 57.417442321777344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 46.90977478027344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 45.58609390258789,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 43.92738342285156,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 45.69464111328125,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 44.31740188598633,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 43.08455276489258,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 43.492313385009766,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 120.33186340332031,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 142.80528259277344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 176.17784118652344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 180.0,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 180.0,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 180.0,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 174.64309692382812,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 174.30593872070312,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 167.7493896484375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 165.86253356933594,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 58.101951599121094,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 55.129981994628906,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 180.0,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 165.33152770996094,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 164.8681182861328,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 166.66708374023438,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 167.52232360839844,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 167.61831665039062,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 166.77252197265625,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 166.17620849609375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 165.7304229736328,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 166.33189392089844,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 165.34434509277344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 166.75242614746094,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 166.02418518066406,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 164.131591796875,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 163.5669403076172,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 163.56007385253906,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 163.9306182861328,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 144.4171142578125,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 144.24737548828125,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 141.3102264404297,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 143.49681091308594,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 143.06292724609375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 143.84010314941406,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 144.0653076171875,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 145.20556640625,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 144.32131958007812,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 144.30502319335938,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 143.29638671875,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 158.74647521972656,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 166.89337158203125,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 167.97024536132812,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 170.58163452148438,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 172.68386840820312,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 166.1698455810547,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 164.7803497314453,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 166.79412841796875,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 167.70469665527344,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 173.48355102539062,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 170.93618774414062,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 145.13882446289062,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 144.2035675048828,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 142.50823974609375,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 172.8347930908203,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 173.3561248779297,
+    "detector": "movenet_lightning_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 168.87249755859375,
+    "detector": "movenet_lightning_image"
+  }
+]

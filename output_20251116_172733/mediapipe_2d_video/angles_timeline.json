@@ -1,0 +1,8206 @@
+[
+  {
+    "joint": "right_elbow",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 141.11323930218592,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 139.8469662253578,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 143.7617880230523,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 149.25108936882475,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 152.06856524042192,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 147.55857900066425,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 139.83980307351223,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 138.83604996186423,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 137.33160108261958,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 135.05788889265034,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 136.32608193211567,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 134.22612180368347,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 133.69741546245123,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 134.88207328384465,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 136.65351584647047,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 136.07801135237253,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 135.6419413245961,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 133.46542911967438,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 131.31790437669457,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 133.56971996836472,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 134.317751301864,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 133.18931222458943,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 133.01708685912925,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 133.6604641383298,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 134.68414558244444,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 134.63505637258206,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 135.04505113818976,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 134.14472197690304,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 133.9012760778052,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 132.53294008011358,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 131.68428016225602,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 130.89707169419376,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 131.33704584638136,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 131.59631913979274,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 130.91974499003965,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 130.43570025318277,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 129.2865294680375,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 129.6218594869471,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 127.61463950943555,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 127.86682325004556,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 126.29498652844941,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 125.85090218081353,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 124.89463687842633,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 124.78938716833329,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 125.22485876258416,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 126.5476484342931,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 125.88454312011376,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 125.53759715408906,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 126.52037003266118,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 128.87069247494972,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 130.32208562426143,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 133.50977524776775,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 135.83993754310544,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 136.42551516086533,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 139.7364464592853,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 139.79170984595646,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 138.5191895279636,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 137.40065486120912,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 136.866694789624,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 137.02750906156604,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 137.25288078542795,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 138.8785019770452,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 139.2732652925219,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 138.4585933169209,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 139.33537254204097,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 138.0258694825031,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 138.82072997679413,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 137.74532273352034,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 137.7136521772368,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 137.91094984721892,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 137.6293446140587,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 139.0006448715078,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 138.36828450656884,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 136.8891932066603,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 135.536385193525,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 133.73704254874698,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 133.9936072853185,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 134.73144823927527,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 134.52049977525652,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 135.68026473790326,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 135.0529474464014,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 135.2101008655686,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 135.20223687277124,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 135.0967693039364,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 135.11733255439563,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 135.27255557061858,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 135.17890629435823,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 135.257529018699,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 135.5464810973898,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 135.31656775785848,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 135.46776263521198,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 135.4741413593159,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 134.9311171287572,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 134.56728467311336,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 134.40681673948725,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 134.56412075177877,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 134.83787208674786,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 134.96487292991367,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 134.63239612493675,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 134.31398746827472,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 134.27393531399338,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 134.13832382947044,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 135.39122000871896,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 135.79535126443173,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 136.68677949790992,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 137.37801970634396,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 137.0977485853723,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 137.48182876150614,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 139.29073527197318,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 137.76340023707786,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 136.09203371242458,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 135.93660251642797,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 134.7158402942063,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 134.42961186423696,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 136.84608105353237,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 136.74855820140982,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 136.31034129607156,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 134.6831464855484,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 134.53122983556148,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 135.39807935075714,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 135.35161911827362,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 135.837793181912,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 137.2284863030943,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 137.83035169410135,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 137.32913400362543,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 137.9269826443629,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 140.02858957162536,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 141.06053641249653,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 143.31873599306138,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 145.43776279559782,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 147.28201620400722,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 148.8636084726066,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 150.37071322184426,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 150.02997984625694,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 150.41170771566988,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 150.3075624937312,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 150.79087133765825,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 150.46224453854296,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 150.14911967173464,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 150.07016996084334,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 150.98560140238456,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 152.29528589789436,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 151.45108862235472,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 152.25084843368643,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 151.7004097011947,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 151.77434091551416,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 152.91881390145795,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 152.08106726721002,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 153.34816126054673,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 153.67175942538577,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 154.7672247279236,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 154.93722340130205,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 155.6065569907528,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 155.5157691883332,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 155.668821936827,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 155.90707809771072,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 155.92843305285717,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 156.2330120635915,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 156.1046270960497,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 156.07958486456212,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 156.33898340399622,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 156.40584374727825,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 156.30482176643147,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 156.09360561932598,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 155.7451026578431,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 155.18947297226114,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 155.1452440302106,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 154.87983736554557,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 154.78428619179167,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 154.55433849153982,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 154.39931338220646,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 154.35074412485113,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 154.1714531006883,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 154.3599433712348,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 154.57312303704964,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 154.76522774837792,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 154.834971460977,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 154.7732205540939,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 154.73480245476455,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 155.0362985592689,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 155.3439249685958,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 155.62183604506694,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 155.9588717888328,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 156.45207003104295,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 156.24402159162395,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 156.0604189303702,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 155.95826035460158,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 155.4436468661582,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 154.73516792256385,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 154.51793414623964,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 154.59523171352598,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 155.21135638605668,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 155.53047078940773,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 155.60180583184192,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 155.51826280582023,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 154.87395193859223,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 154.26581078160996,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 153.77097416111,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 153.4333258658272,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 153.43031342090217,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 153.1955127388613,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 153.88286555530433,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 153.14296189319194,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 152.24308761570228,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 151.9032100436506,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 152.11622731857878,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 152.7419947397038,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 153.58129752967494,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 155.0474523087582,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 156.23436851808893,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 157.87977285009828,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 157.64702846815345,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 157.95182605733567,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 157.92284396062448,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 157.89653198113746,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 157.42963038885156,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 157.03354484462275,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 156.37593396084182,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 156.32156622187938,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 156.41124951982752,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 156.66857140029174,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 156.72052871775279,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 157.14140926856962,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 157.14295539431882,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 157.47655309230882,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 158.30160810293052,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 158.57613654075482,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 158.69686932267618,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 158.71201024576013,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 158.44012165890564,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 158.4867556974795,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 158.83438187357072,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 158.71005676379215,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 159.08972062835608,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 159.19810924181058,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 159.44613701325693,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 159.46614973722384,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 159.42748113044533,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 159.16615784440916,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 159.0487049350961,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 159.05676126460608,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 158.95799524209662,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 159.0765514260062,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 159.07786210735907,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 158.9940481361422,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 159.03670071299646,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 159.2509166523983,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 158.7205464458712,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 158.34130985066463,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 158.15329283753147,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 157.8259287872065,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 156.67951750889927,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 156.29687827666075,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 155.96219670723144,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 154.90555540121713,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 154.7493030101546,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 154.92388404267479,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 154.29381369700397,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 153.3256760913257,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 152.13004359545172,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 152.29695793205113,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 153.01729440335987,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 152.1942642457934,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 152.1205911576361,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 10.207728888116053,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 11.437191831084982,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 6.241360438323299,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 2.591485764568704,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 4.1529410902421295,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 7.367481848599483,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 8.47401782592742,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 8.796540989670435,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 10.948306450897478,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 12.273186254611433,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 12.476326998848709,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 12.89207188095288,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 12.043722128666387,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 12.096181877970555,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 14.311421130940417,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 15.89996214273512,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 17.158218954217908,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 18.48802737282647,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 19.847796028128073,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 21.29023055137584,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 21.96508799272984,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 23.18430374931002,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 24.49554444948562,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 25.000262088682085,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 25.39391584757147,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 26.314495839306147,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 27.083388060517184,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 28.81659393113446,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 30.215143689547777,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 31.262651335715855,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 32.838551513964646,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 33.87063683013915,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 35.49539084761535,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 37.09035614456892,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 38.34792653785266,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 39.752985546869574,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 41.55401589846724,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 43.44962780666161,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 44.37372853757956,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 45.74903572272668,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 47.50537562782043,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 48.584598688451464,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 49.370550445201495,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 50.862236962914665,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 51.35837931484451,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 52.51317667430607,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 54.313365168085966,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 55.431501660496565,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 56.518116236681465,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 58.284601439818175,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 59.00544811015658,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 59.75636692067275,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 60.13196171207841,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 60.59196183306017,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 61.97983166385768,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 63.90155660990098,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 66.27010932715092,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 67.26882840766251,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 67.66262217127678,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 68.74645983707461,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 69.20768979622244,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 70.41707334222008,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 70.1788986699139,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 70.90724539036012,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 71.06818961892725,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 71.36364108952694,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 73.17788717945967,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 73.72761397603358,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 73.2380741127576,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 73.11040593603053,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 72.61004188367934,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 72.71990756414948,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 72.89665230610677,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 73.19336882363075,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 73.45923974051965,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 73.35969920120743,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 73.39601046940203,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 73.48692108443072,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 73.48499756416993,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 73.59337616660719,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 73.52235837758866,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 73.43885230444641,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 73.38935713709662,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 73.1537234763806,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 72.97172897921962,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 72.81558849298415,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 72.8435591091025,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 72.64337841717014,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 72.50386810446918,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 72.41928798722245,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 72.52026427169585,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 72.79678613902519,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 72.74211151690793,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 72.70924296805316,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 72.17764107948017,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 71.86625312325282,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 71.30063800612271,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 70.93322650679795,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 70.6608922794386,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 69.68469633603809,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 68.35686400346333,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 66.31767684083843,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 63.7503885722391,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 61.65855977043316,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 58.23230319827127,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 55.13196787068671,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 52.826507844957405,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 50.18403395681116,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 47.62625928832042,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 46.432206150502175,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 43.77624909559086,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 40.81431476575021,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 37.59272826315815,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 35.10907959968364,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 33.42760222017358,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 30.868442002726535,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 29.844013927146285,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 29.10533713831322,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 27.759917623053035,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 25.619677777960984,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 24.710130630385322,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 24.911927299159704,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 24.07604537605984,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 24.574120430572783,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 23.77746357954551,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 23.199004951816498,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 22.21747784656023,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 21.520959057379315,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 20.010207207740937,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 19.407630760287837,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 18.09481355921471,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 16.836978151766214,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 15.36813580478952,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 14.22435548120898,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 12.192435343251862,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 11.419330187544002,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 11.237543259274561,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 9.954119814992158,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 9.734010536078353,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 8.24419125258336,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 7.699629940725292,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 7.059510570358492,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 5.426111148102716,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 5.269152102997501,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 5.145660225119062,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 5.633676197039178,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 5.652363824830914,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 5.7225549910120215,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 5.434681971970161,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 5.271657430412089,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 5.062079021708041,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 4.928031008921748,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 4.868735808310963,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 4.746863890633931,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 4.689667480370529,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 4.7309898728811115,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 4.6242046458160555,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 4.47573338346374,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 4.299748615269851,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 4.24812415068448,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 4.100854989170449,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 4.216980572368,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 4.350659799858913,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 4.6323130516536235,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 4.7325240022718615,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 4.87038971701804,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 4.9287651493811255,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 4.971038282194133,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 5.066797835976734,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 5.292617387993735,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 5.356758929923723,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 5.394451796302066,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 5.332750566408032,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 5.344391939956699,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 5.596535480541352,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 5.64631446848471,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 5.775742032978451,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 5.938918599461146,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 5.991683635995314,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 5.993451089086309,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 5.807352856317258,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 5.846980784685393,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 5.7075434384804975,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 5.607753506151058,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 5.5827357567259375,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 6.082623123595458,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 6.72828745893045,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 7.275492589402447,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 7.3970391608590536,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 7.4614132892179725,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 6.9869082997047345,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 6.09402757889002,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 5.50819183107919,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 4.591997777646806,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 3.5877282222516946,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 3.1237493563629073,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 3.6444183643351122,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 3.49409663492595,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 3.5232155119651978,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 3.4800779465836684,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 4.125446754540537,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 4.398690242939651,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 5.032883346674843,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 6.051777463994771,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 6.154617631289787,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 7.172855600562682,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 7.186081193532756,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 7.746184787102822,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 8.221279580587629,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 8.515576904604957,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 8.518145508964228,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 8.765027599736058,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 8.61672748934477,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 8.769994496932297,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 8.977721406602312,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 9.206990891104548,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 9.251015055923608,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 9.267756424523611,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 9.190016029648762,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 9.251897864196277,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 9.362885913744377,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 9.522836686318662,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 9.578061580485128,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 9.514804331633226,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 9.53039087893207,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 9.504234071407364,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 9.424941416626298,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 9.313324650076302,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 9.056842812169156,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 8.82494155375212,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 8.7971574370616,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 8.772296261845229,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 8.732761908831572,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 8.662238004271614,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 8.57921199313859,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 8.716170189594493,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 8.734689709937127,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 8.818554853999421,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 8.774845230055536,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 8.732605994795177,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 8.564300650778529,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 8.398566328191288,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 7.892047565895594,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 7.4243772400493375,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 7.11399582922321,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 6.607968950012615,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 5.642969463498508,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 5.392804612184413,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 5.236392910907871,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 4.6443937713906855,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 4.135992413835177,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 4.062030997130674,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 4.172050292933918,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 3.7347666308840384,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 2.5337541397088077,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 2.876242405694545,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 169.6919684907308,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 169.03407766945065,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 168.55437596052505,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 168.07590935700145,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 167.52585494647684,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 166.40609265925374,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 165.08363971464811,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 163.82577170564466,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 162.68308201026574,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 161.61603648000042,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 161.0085977947834,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 159.35321370972915,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 156.9192122904753,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 154.84499574840464,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 153.23767134848083,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 151.50855573322147,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 149.76007395847319,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 147.94636388271488,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 145.248375916068,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 142.59956383548945,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 139.27403383799967,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 136.17344848601542,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 133.3129727389461,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 130.35231599266464,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 127.95027568260728,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 125.82857232611089,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 122.83421391540459,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 120.94014423345563,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 118.75583394915482,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 116.87693007669806,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 114.80817938951175,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 112.23916165521989,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 109.4575946308858,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 107.40089042632816,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 104.98990919850053,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 102.80079154300321,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 100.41495639111089,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 98.67768470913205,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 95.68431171069498,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 93.79208252425347,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 90.93317542856293,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 88.59765528831889,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 86.24607821447366,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 84.31818686684619,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 82.04083345892062,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 80.27454886991931,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 78.11955272911345,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 76.389994685566,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 74.61954429866343,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 73.27530431603701,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 71.9221216039589,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 71.0637684395408,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 70.32899176215605,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 68.80592192686345,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 67.24804131408564,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 65.95468565482622,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 64.49131850438998,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 63.26272972950411,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 62.38861721172912,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 61.13443518070816,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 59.90197820001367,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 58.525547926017246,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 57.17766540061927,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 55.9668529088623,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 54.90066678533155,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 53.93595583671392,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 53.097270421629936,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 52.535361028811714,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 51.99705880815342,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 51.03445721166607,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 49.93191678820027,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 48.93855037714154,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 48.39136059792964,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 48.177168942869265,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 47.842300801249436,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 47.52408324857824,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 47.30781340806238,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 47.02961036041225,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 46.940908006722836,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 46.87232830155123,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 46.83686703619102,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 46.81382141249008,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 46.790358684454766,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 46.841443457899175,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 46.793318460505034,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 46.8132443438879,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 46.83240020471014,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 46.83697246755666,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 46.79588577175123,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 46.74107391759786,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 46.704491421042455,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 46.75127242241355,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 46.74264308928286,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 46.76229076377051,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 46.71764364275054,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 46.596644864824036,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 46.514111650091806,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 46.38182858404629,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 46.29009157547737,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 46.16499573232124,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 46.21881439752967,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 46.68860475803031,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 47.3972760717304,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 47.460559833353514,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 48.749224228936825,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 50.53385303551207,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 52.04198811626087,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 54.29051553164189,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 56.8868821726417,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 58.638049532530154,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 61.12134077332264,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 63.864181042255304,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 66.41118463380151,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 68.92847213317319,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 72.39377126270847,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 75.64890037641722,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 78.41551754675254,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 81.28661506227074,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 84.40698622301731,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 87.44146488142789,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 90.3204524238269,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 93.08145379880776,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 95.95895666672803,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 99.50273605966697,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 102.44958111723051,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 105.09994583802234,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 108.62055612826568,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 111.91444377615932,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 115.57480536664784,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 119.10857332792119,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 123.37233813381062,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 127.63681397505117,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 132.5900171698202,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 136.75081029230506,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 139.49315993869166,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 143.6478083156205,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 148.11397068513529,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 151.93105159762902,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 155.4794575823466,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 160.40075418725607,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 163.8888646147092,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 167.6523850666134,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 170.6694887528925,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 172.67027141159917,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 174.43945693501212,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 175.83993208107432,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 177.32166724404027,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 177.8226649103744,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 177.33818174551476,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 176.6396733593258,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 175.94920393519527,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 175.43329998016452,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 174.74090874337614,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 174.04220907993795,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 173.4815009903355,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 172.96161244710694,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 172.70121517506138,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 172.28194143655966,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 172.05772361326856,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 171.75158843294105,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 171.63006123561283,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 171.5857394825343,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 171.5460776546447,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 171.44244853879118,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 171.39709254291205,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 171.56091161971807,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 171.97131318403248,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 172.30812407220998,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 172.92826717052117,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 173.0053073366493,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 173.14707531454724,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 172.92434875732155,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 172.93035828747674,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 172.58980074966252,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 172.54496293188225,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 171.73396140714746,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 170.57749328877838,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 169.7180268213897,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 168.73640886149064,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 167.6405550941137,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 166.58694848396598,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 166.23301309172604,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 165.50363106042516,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 165.9091230614335,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 165.58883926808653,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 164.73649074085205,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 163.87057372432986,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 163.58568752104821,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 163.89006946585775,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 163.665429361639,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 163.56406860992928,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 163.2642897528138,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 163.25420828280681,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 163.01059139477738,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 164.17079746346243,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 164.1686362142978,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 165.07879428332404,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 165.25240663571182,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 165.11592129094956,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 164.96910482230484,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 164.7312622640137,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 164.57845807280808,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 164.60700970381302,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 164.66563383942685,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 165.25837528257378,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 165.79274980327642,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 166.7860368350812,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 168.04119411250022,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 168.36345956540885,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 168.74113666913436,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 169.46147456403511,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 169.4193682529805,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 169.7908627800447,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 170.0557687762601,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 170.25750864563454,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 170.70305395287048,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 170.68850473891274,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 170.65104632885678,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 170.65768006205263,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 170.75756455264056,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 170.71893257479977,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 170.6832499239235,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 170.66482758970514,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 170.8176847273769,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 170.90594974127652,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 170.79566627095926,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 170.66769555551974,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 170.42202492661792,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 170.39731082727764,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 170.19587081736287,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 170.0566889698388,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 169.9549780841408,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 169.79863956491263,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 169.5695877235381,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 169.36036139234182,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 169.13445400251032,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 168.93633165173935,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 168.95754809279703,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 168.84536977794141,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 168.22270449126484,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 168.5394928818178,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 168.6695696388342,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 167.68570582427373,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 167.16161387729608,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 166.95218701183788,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 167.84338545886797,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 168.62152557202936,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 169.55272906621173,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 169.7609347692706,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 165.95127096534455,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 167.00633438827862,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 166.90806930727132,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 165.75893179626874,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 165.55219393984117,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 165.35582152341527,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 165.15529921846667,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 165.2988974647407,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 165.62312863597077,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 165.51655311920953,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 165.28792998094275,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 165.26537062009353,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 165.30971158732422,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 165.58846119022758,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 165.57086628856095,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 165.98176755154532,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 166.59030520912037,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 167.13094771157756,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 167.64784807209537,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 168.4992282508816,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 168.34635186734087,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 168.69742013198064,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 168.61311274943998,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 168.356677013625,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 168.42879402836206,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 168.59128680155678,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 168.80205062556064,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 168.8459417640687,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 169.21398370980637,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 169.2506308055364,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 169.31459478184289,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 169.31540339185213,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 169.38074170238204,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 169.15921076808095,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 169.16482222324245,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 169.1458243131111,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 168.7193303875772,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 168.59985421770838,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 168.17023390572382,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 167.90070614688506,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 167.89649867546075,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 168.00027419080735,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 167.9282107425673,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 167.18641972431172,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 166.30514943613557,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 166.26808791421072,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 166.2830366093565,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 166.2602007347449,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 166.80410606157372,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 167.49224074993887,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 168.06345847238094,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 169.92844029644988,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 171.24956959352394,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 171.58637026837067,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 171.6175832340012,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 171.95709397900433,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 171.99806355191893,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 172.38401923953612,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 162.58989304322287,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 162.87540971442667,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 163.06937354411997,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 163.52341201330472,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 164.09278796322852,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 164.51499682491843,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 165.3560482527999,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 165.73171694243885,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 166.12168552103202,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 166.68649559088504,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 166.78410763373967,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 166.98817615186485,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 166.76592933376227,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 166.65574160335495,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 166.49902269980933,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 167.32353398129615,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 167.79343586312302,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 168.00207703868918,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 167.2253437364674,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 166.71057526246477,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 165.63717380089403,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 165.2142378391381,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 165.5448216009834,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 165.1319607142212,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 165.061930478572,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 165.4104150565965,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 164.83833064563126,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 164.98162449215934,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 165.13531574075176,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 165.8445330897865,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 165.63828494091857,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 165.77045737849758,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 165.1657372961369,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 165.179243998308,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 164.96110138271305,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 165.28819996092312,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 165.6717112566584,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 166.06371675996178,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 165.39903107003673,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 165.37385533513566,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 165.2346274508435,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 165.08285524395757,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 165.02772873005418,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 164.86836918344088,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 164.23164730635753,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 164.27042890167723,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 163.82514433480785,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 163.12368841685756,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 162.38583536800934,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 162.2341080759741,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 162.3442847984394,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 162.65708030524158,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 162.66720937117395,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 162.3587641531273,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 162.14549794427307,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 161.5490371964445,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 161.39640388442416,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 161.6604662210192,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 161.690586964213,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 161.96548334241734,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 161.96445663617166,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 162.19490397230268,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 162.10658748675277,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 162.31870016633255,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 162.36964958392534,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 162.45093738691568,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 162.3696754379034,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 162.26499540498565,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 161.87878171847248,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 160.72663788569554,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 159.2222105440862,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 158.42803499619,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 158.46871306157598,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 158.51924529864576,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 158.46279778314528,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 158.37737428394894,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 158.3496191088051,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 158.47994893407687,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 158.56998972167224,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 158.61776830712762,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 159.0647207247064,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 159.4770141108353,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 159.8583129680911,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 160.0285660859245,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 160.0466170329102,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 160.05111557312281,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 160.05711551258042,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 160.0405697364786,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 160.06584639428291,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 160.01355702618662,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 160.16658272553977,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 160.32502102518734,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 160.2710851252212,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 160.22722811848186,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 160.08958846606177,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 159.970004107088,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 159.93535394091302,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 159.50433742772387,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 159.3881030787104,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 159.3340315243438,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 159.32074769727666,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 159.64898944082378,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 160.16725226136663,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 159.65659146323318,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 159.6972423172587,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 160.08324960437915,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 159.78392759930253,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 159.6606250621983,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 158.8865963568871,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 158.20139357169217,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 157.89599427654898,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 157.52443577006468,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 156.60897962293112,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 156.35613909798155,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 156.38148203891464,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 157.1862168445856,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 156.9270692608645,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 156.71202588100562,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 156.91381552972987,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 156.98197376625419,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 157.02060375184905,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 156.9753027808907,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 157.0018678213353,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 157.36559820291112,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 157.62113384758143,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 157.72903662213213,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 158.0906713261285,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 158.38816726198766,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 159.07353788665733,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 159.65687377119227,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 160.65137139203512,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 162.02803118712893,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 163.04374051194117,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 163.6084376905071,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 163.37716896390563,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 164.44430343900316,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 165.6580442906237,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 166.92236470054704,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 168.05922501460586,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 170.18913233042431,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 171.2948086871947,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 172.65252637456902,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 174.2709590661985,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 174.2321073973314,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 174.69350995349618,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 174.70369551214975,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 174.45118126921005,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 174.65869510628895,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 174.07762202024753,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 173.6795035773933,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 173.54459535994695,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 173.20350540074614,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 172.77485424312337,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 172.39820149391113,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 172.2372937693723,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 171.9772186857302,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 171.86411417516797,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 171.64723306915116,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 171.34457832034164,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 171.07692398315223,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 170.77835154791646,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 170.66406626973603,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 170.5697768718963,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 170.31681890923457,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 170.01285480601302,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 169.65249947736737,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 169.10488928447884,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 168.90214845359486,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 168.57073280893746,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 168.3525697256271,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 168.13077760335685,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 168.08069966828862,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 167.92028290914698,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 167.8292641497723,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 167.6910640211062,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 167.65653674907753,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 167.66593233554042,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 167.6581111878164,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 167.55497512906175,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 167.55689558162643,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 167.70878309061055,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 167.916952663713,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 168.1059661333236,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 168.52540788529546,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 168.7236322047521,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 168.8876626102357,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 168.6788979579284,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 168.72214175716033,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 168.57106946000445,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 168.12502135143146,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 167.1000793002078,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 165.57835994279287,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 164.0343831118506,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 161.88904831519466,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 159.25450356321724,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 156.9035878359541,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 153.68665194552386,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 149.8594392084589,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 145.90664917679499,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 139.19302900230053,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 134.29027242855423,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 128.88950427611937,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 123.26328005488773,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 118.96860226249521,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 114.59721166606764,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 110.82805575247318,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 104.88178669837865,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 99.3977797477886,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 93.00744128308116,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 92.73518834195261,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 97.20456906386823,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 78.19717862815996,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 73.87784309600582,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 69.63193181008366,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 65.66871772966545,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 63.24446376184613,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 60.2998782781719,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 58.50725825649778,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 56.69299793798021,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 55.218966576351875,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 53.908535902708124,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 53.47356819660291,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 53.08561339499531,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 53.127076687536736,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 52.69777280218769,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 52.10671998445314,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 51.52600789883579,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 50.79676536488274,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 50.54641831898649,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 50.29321293135922,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 50.269879829538986,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 50.55045590457083,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 50.69018819157875,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 50.79416502839204,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 50.86503641278459,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 50.75065550111245,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 50.62356396601537,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 50.4770540156665,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 50.49527967548863,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 50.45590543736557,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 50.49899036788564,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 50.68880971653206,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 50.76440101761551,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 51.6854608254175,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 53.63088706005475,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 56.13701487136184,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 59.299011257385686,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 65.62653792612258,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 72.59523024600855,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 79.25281609185754,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 93.5582110858112,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 93.80552617172435,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 102.15169764973206,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 107.94971051124386,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 115.2874705677466,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 122.96231170119842,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 130.303877340447,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 137.0472122448589,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 144.0030788515179,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 150.20471273005106,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 156.13245752717486,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 162.29901301287347,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 165.72396204132662,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 168.90020358246994,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 159.083742520394,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 160.915969157099,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 160.92652814677436,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 160.300113045311,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 160.2585380320107,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 159.92844444468778,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 159.7610688507033,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 159.67945370636227,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 159.99144462148297,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 160.2818471121515,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 160.43697391010414,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 160.6012210682967,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 160.90182132480237,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 161.28440637191952,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 161.1887740880231,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 161.04176388853907,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 161.49945022399197,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 161.95898026513913,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 162.8076129497653,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 163.44100319603888,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 163.82194437552306,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 164.29575565497228,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 164.689100651543,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 164.90659760658625,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 165.21670442538937,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 165.45611825669448,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 165.74059944714242,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 165.94624756009728,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 166.465903429112,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 166.62698169761885,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 166.7488293661777,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 166.867285884232,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 166.95935842914713,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 166.94132842318763,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 167.00767773794828,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 167.1283726348482,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 167.089200850699,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 167.0456313076963,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 166.51383405360224,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 166.3677076590725,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 166.2999415339322,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 165.99497405539827,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 165.73629587957606,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 164.80836283237483,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 164.0779438581329,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 163.76463997211735,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 163.56714436973945,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 163.4810338757696,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 162.5137320139858,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 162.4936153428162,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 163.1117945913242,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 164.8720309807582,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 165.54397964938644,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 164.8550399529099,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 163.9851686217925,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 164.39082700066297,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 165.89846554537937,
+    "detector": "mediapipe_2d_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 167.97560911398634,
+    "detector": "mediapipe_2d_video"
+  }
+]

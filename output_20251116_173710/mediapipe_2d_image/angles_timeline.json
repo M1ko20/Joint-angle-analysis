@@ -1,0 +1,8122 @@
+[
+  {
+    "joint": "right_elbow",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 134.66828600172468,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 139.43287949598343,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 141.95891051004608,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 142.0063722770035,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 134.32899551372304,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 133.87645025734992,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 128.64786862345215,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 133.8525303903062,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 133.39469756003695,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 131.73693286268102,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 134.122845497827,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 129.50415434086008,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 132.35485765002252,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 131.98305348374438,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 133.1555368338054,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 132.09608428918287,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 129.1457723644214,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 127.17513072421205,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 127.54983874212725,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 127.31664646260037,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 127.00528924658447,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 128.33958211204222,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 129.19003332076835,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 127.095869416877,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 132.20840362043336,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 131.18736571677877,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 131.34073697082508,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 128.83864125782122,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 131.49528475291075,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 126.63978582797904,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 125.52242731695632,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 125.18988273579079,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 123.87295157969302,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 126.09001826760318,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 127.6045135823579,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 127.82168716144895,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 126.5774192337548,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 129.86304875230016,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 128.92564506271646,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 129.26252107114206,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 127.05944152882789,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 127.24709514073615,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 130.27089216861816,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 129.22493214913882,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 131.03772257707215,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 132.12262728221106,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 133.3312963981349,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 133.7970468832361,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 132.0852708946066,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 134.06354224279247,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 132.477683903223,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 136.422336399605,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 135.15911839321691,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 137.49798201419472,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 136.43092715642553,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 136.4213685586433,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 136.32917953496045,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 136.73871038997837,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 133.9911497808178,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 133.13270090984955,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 134.17646893383127,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 135.05878764322267,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 135.0743440508141,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 135.462236524663,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 134.4322719558175,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 136.76243970995506,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 136.91679109554025,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 140.54401330707012,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 138.92054105347145,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 140.60637887801047,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 136.8650640066426,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 139.5039404357309,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 137.4193463327395,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 136.07257198545412,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 135.71046707663987,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 136.00540226847954,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 138.68716185454772,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 136.32018138704623,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 135.6722512495506,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 138.01064419036123,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 135.156012289013,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 136.92226609127837,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 134.7326176608884,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 136.96807235634677,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 137.61486390602983,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 133.83815620522034,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 135.01900620356324,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 137.56411068978483,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 137.32176410149157,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 135.41891575736733,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 135.053330698868,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 136.98602057921516,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 135.12123571551808,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 135.0056202380471,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 135.877279449188,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 133.24434400314135,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 136.2801585295709,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 136.6699369976046,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 137.6974981249965,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 135.96572338162215,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 136.4758401337658,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 136.3459540414691,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 137.70019437559537,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 135.22641901044244,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 136.77347334511293,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 138.55841860382495,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 134.20104522520745,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 136.63941353704269,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 136.21154851828555,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 136.834819958624,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 136.86529170820646,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 136.9268943093257,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 137.32833143273174,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 137.3152367504278,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 134.8505013635414,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 136.41886885313087,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 135.40329037404342,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 134.13779844075927,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 133.27342144566816,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 133.55464976853455,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 135.17950597701872,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 137.51171340181858,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 137.06076590254682,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 136.2030858137774,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 136.43389370611652,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 136.26003693113265,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 139.69859502333816,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 139.76802907936107,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 141.58236083304658,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 142.67568920875866,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 145.10619156953354,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 145.0000189624687,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 142.32667946173837,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 143.8138581942324,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 146.06338556213296,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 143.62466722327838,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 143.41962932492308,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 144.15380790131945,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 145.87317135312637,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 147.07038195863777,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 148.33612226335163,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 149.46849526103895,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 151.36985729028018,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 151.40804680983138,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 154.06549957355531,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 154.09980412684172,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 153.1391057800184,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 153.22270477809099,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 155.1269692733799,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 154.3950162346892,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 156.09855503395192,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 154.8963006390951,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 155.3671637195847,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 155.37562418585176,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 156.34906414074908,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 155.56380881634587,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 155.9367351929403,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 155.99846506386862,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 156.38898420937844,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 153.52749246361466,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 153.50151762550593,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 153.1004494411717,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 153.8178056660506,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 153.17261053450994,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 154.41398490343568,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 154.29013175962004,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 152.58039009466367,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 151.86689312077922,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 151.80324467114664,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 150.89133700884477,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 150.94356043469585,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 151.64613131932325,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 151.06749166201928,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 151.37908320858907,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 151.6315775975741,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 151.26343785693385,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 151.9771475494424,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 152.25596869737018,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 152.1351513576437,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 151.99939924617658,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 151.24377191396061,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 152.4332227139535,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 152.7950556616558,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 153.03774251760498,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 152.94828618657814,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 155.5003082593252,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 154.72882755518467,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 155.76486286468122,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 153.3963808469523,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 154.7813620259014,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 153.80666182064215,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 153.40902154869653,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 152.598353633601,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 153.22522967824298,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 152.63340069676752,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 152.26283046977235,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 150.9875401713963,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 151.97821054567245,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 152.4588763609494,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 152.84609137813788,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 152.81403419074576,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 152.14999306008093,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 150.22122381066265,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 152.54520795812724,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 153.89132830813824,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 155.0006947744468,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 154.1825716713221,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 151.07663365425344,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 152.0394276938027,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 155.07297828639778,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 154.2580547962389,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 152.8660466103457,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 153.00830698165413,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 151.92686861982796,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 151.66540901482352,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 149.74281831818405,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 149.93382581715085,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 152.42560060348592,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 153.3365069090418,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 152.1899876277137,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 151.04940579490008,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 152.22271851176245,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 153.1088795348417,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 153.57233945230794,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 153.81458603133638,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 153.7397856595768,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 153.07080476882314,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 153.79517694003985,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 152.4728443295269,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 153.05267103359637,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 154.3274591854688,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 154.06908255744034,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 153.7959414553184,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 153.52322535382874,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 153.1290321431922,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 154.96622255747738,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 153.63443218740997,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 153.4296336427605,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 152.7262036662119,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 152.0657133307103,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 152.13270866604455,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 153.51469631559303,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 153.64034454614995,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 152.34289107219283,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 153.2721380375406,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 152.75016934005754,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 155.53630474871736,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 153.3970367994252,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 153.7701065249536,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 154.548772794556,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 155.17794459100273,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 153.33323635540148,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 155.8224888011291,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 154.28486456126095,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 154.9535967427879,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 151.37794036094922,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 152.17881318004314,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 150.0923733585512,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 147.77037597342715,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 147.69646836071973,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 147.6089098313328,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 148.4045827313177,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 149.7512957167747,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 146.92421629254542,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 16.545031906028896,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 14.417897837981148,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 10.126841969974368,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 7.233856074947788,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 13.089381941734578,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 11.93562044276216,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 13.578848761946473,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 5.527304857190835,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 7.391360773597518,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 5.177884111345699,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 8.360323620040694,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 10.232550266678002,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 11.089375815520702,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 12.078087818038185,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 10.136202762630997,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 10.710540720757106,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 11.977661349769651,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 12.883439128573844,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 14.368524381620215,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 14.168857442317442,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 14.652477838369434,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 15.356624956262538,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 17.5185484298352,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 18.98872447109079,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 20.784847290279263,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 21.79184059385451,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 22.638316697254325,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 24.69695766112711,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 26.475184158599323,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 27.579047793992537,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 28.373448028931964,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 29.73387446504247,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 32.107689925160166,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 34.89233379673068,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 35.08867440901738,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 38.14142756590435,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 39.276448239146184,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 41.51681574636869,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 42.01645143897445,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 43.29450680307114,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 44.52930890280911,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 45.955575271940276,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 47.48955750002101,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 48.026128945769074,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 49.38324037986946,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 50.74014002916227,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 51.533843186830495,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 53.30979875797351,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 52.696375509391146,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 56.028460342009396,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 56.11427875866241,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 56.946055171028945,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 58.05619513030206,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 58.31058060617488,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 59.08554478614241,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 61.046851402546054,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 60.69563452563864,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 60.61977267378734,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 62.91204410511324,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 63.177205731164236,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 65.48693893715699,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 65.11535954343725,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 65.74440789756335,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 68.00227620792958,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 67.63756391958873,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 71.35797643911548,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 70.40497994838461,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 72.24487333935531,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 69.01299768201562,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 72.56107038739106,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 72.55615373764459,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 71.7250098647009,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 70.54775389632414,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 72.15193656635893,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 72.8476275923739,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 72.96463538185287,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 72.78742703571527,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 73.24202850971795,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 73.527537820519,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 73.44473158419044,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 73.64224843904753,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 73.14309092536666,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 72.51555006573705,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 72.47047352544763,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 72.20404304886932,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 72.69075223699713,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 72.8952753912298,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 71.82005932176759,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 72.00611178218469,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 72.6452098840125,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 71.59443433168406,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 71.06452540871311,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 72.19952106015586,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 71.80983978295092,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 71.70190712311376,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 71.7471558041737,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 72.48693749075409,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 72.08873240562622,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 70.4317524232523,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 70.53620753885173,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 70.70759783921272,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 68.50912007418196,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 68.10015857536905,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 66.95782511737457,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 64.32472542410187,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 61.78011061674323,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 60.54936188484129,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 57.60043911865034,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 56.09545266624917,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 53.45296774920786,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 51.93401563693942,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 48.34347754730003,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 45.61445442165048,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 43.63493037132916,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 39.984862803086415,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 37.915783227003416,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 34.551153207034844,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 32.32825998628139,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 31.577448271193205,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 31.077637252199533,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 29.389111779518917,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 26.42981098028916,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 24.77420994560439,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 23.36894341519433,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 23.649404430866984,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 22.620651882166836,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 22.26917841056195,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 20.40994535962209,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 20.97791822907191,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 18.68209511883431,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 16.502069108388053,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 17.414098210979443,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 17.00306664333003,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 14.19381038496445,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 11.947922502399358,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 10.486778652906317,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 10.482289198351618,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 10.889180041378786,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 9.873307331696848,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 9.217209607674036,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 9.054268955016532,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 7.390144849698905,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 7.9794551230798785,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 8.22399943716898,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 6.471057614587879,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 5.291675154518137,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 6.089035494511132,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 6.112815834544904,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 5.91625168404281,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 4.753423430807539,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 5.185924440074991,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 4.285867830587154,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 5.026747845409645,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 3.6486868882223584,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 3.8968486093616357,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 4.018104872227735,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 4.618919081319893,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 2.559989553212133,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 2.2385145911146394,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 2.2877287156700015,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 2.5236855826680626,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 3.665006715610007,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 4.141544932827689,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 4.2318238269177915,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 3.7465196935209,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 2.9961672290727344,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 2.9087339563470564,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 3.090711926953132,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 2.817655410566868,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 3.6171866347788275,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 3.2428666435220346,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 3.3073760911133157,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 3.7421132249438958,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 2.7575412357128446,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 3.1874674071849936,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 3.458979752161015,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 3.3539716363238017,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 3.9566376784603707,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 3.166965259498775,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 3.5143761535924316,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 3.278038785110066,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 3.1737814415395444,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 3.6627261340805743,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 4.955782410941721,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 4.632358969733887,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 6.22862367808265,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 4.233585142416645,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 6.185142153841762,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 6.091697435764892,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 6.048602395334078,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 5.394406021655811,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 5.733795600098158,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 5.558819287559683,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 4.937326238310589,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 4.382159099159525,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 3.984736734702463,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 4.317411283351917,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 3.933138708007223,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 2.1728818846855056,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 2.222244684715366,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 2.772946880661789,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 4.015951972349329,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 5.225835240299354,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 4.411803713711939,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 3.3386158619848105,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 4.525114595875028,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 5.861935566846963,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 5.462239975219211,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 4.958717555911799,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 4.584905422982795,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 5.922010154295066,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 5.344409786791027,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 3.8321783698466687,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 3.4806417548675457,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 6.376569962392266,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 5.6967385298212045,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 5.532853936028473,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 4.836499939717669,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 6.820089953940259,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 6.3100284044730195,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 6.812270019045902,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 6.438904353819862,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 6.259279934400419,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 5.690136916227163,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 6.8939306033306735,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 5.609914937062232,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 6.7205762545115375,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 6.92509055200164,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 6.7992892277237935,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 6.5656543519242305,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 6.1558693034145735,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 5.696528492203471,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 6.2982188634680325,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 6.120613626624023,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 6.617005896889841,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 5.601104168892221,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 5.562530925407322,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 5.614949452627023,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 6.266900629780269,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 5.9013411624828205,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 5.784524703785134,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 5.235507222349728,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 5.242506071401318,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 6.020058662474002,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 5.140117912737329,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 5.572866780911178,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 5.320017472808197,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 5.0949226139729,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 5.752712832598095,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 6.344289269651472,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 5.767600963166953,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 3.903589014487304,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 2.6076461423836705,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 2.7453965533828852,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 3.9933696607393268,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 169.49305939882854,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 168.95250207685032,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 168.2496177135816,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 167.5701368958479,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 167.20154867857593,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 166.2146704034997,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 166.47241841821935,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 162.398801134456,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 161.00337677942966,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 159.6419550275053,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 159.01987414084326,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 156.6256091192458,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 154.42639573841473,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 152.39925013243314,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 149.4149533433042,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 147.53829785027355,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 145.4822314035643,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 142.96654095163,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 141.1235403591559,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 138.2885110773093,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 135.2790187199522,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 133.423017026596,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 131.3768262305834,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 129.07491752035293,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 127.13424768084909,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 123.18232157978638,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 121.23692291873218,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 118.67025744474971,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 116.29048035697832,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 113.81996565768463,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 111.51591663428557,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 109.27022459874063,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 106.39019674514296,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 104.56854778283372,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 102.99217363167388,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 100.96739127808976,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 97.75633605443502,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 96.24429580264467,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 93.74340834146876,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 90.59282168141816,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 88.77876124727696,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 86.4937061906577,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 85.07626646092568,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 83.53135026109354,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 80.71061406463627,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 80.69461637682873,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 77.03213890431428,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 75.18778341726899,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 73.88676732218185,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 72.00810445132323,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 71.48978742896097,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 70.37076955797681,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 69.0981970170195,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 68.24213273668148,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 67.0051974099309,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 65.75287038720111,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 63.678699907574654,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 61.75789458997803,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 60.14795220129965,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 59.367867752161764,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 57.310606983129375,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 56.641925859255615,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 54.85691110520504,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 54.34134570236749,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 53.732977432576426,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 52.3926406293309,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 51.73218790217554,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 49.38298983159437,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 48.551191996982595,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 48.26974086568063,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 47.601108939506496,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 46.49487702206765,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 46.0302496282481,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 45.12490658214545,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 45.31324201041564,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 44.16851034667295,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 44.412244378191545,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 43.744840522960786,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 44.29859433547116,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 43.2287863491751,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 43.29819480058317,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 43.41414577897311,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 43.33202257285462,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 43.82933878648705,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 43.58050853303056,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 43.56168297517733,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 43.51474419991268,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 43.99796281048152,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 43.28214781463748,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 43.21159508310729,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 43.34847710106501,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 43.43588600365356,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 42.89152574271446,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 42.73557717562196,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 43.14806751287742,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 42.71903507870984,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 43.796323475563085,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 42.75300245448549,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 43.71902243075301,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 43.04435131220361,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 43.140679183838024,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 44.23020439947468,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 44.56466821718143,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 44.57520991167923,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 47.55403322989737,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 48.16909317871896,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 50.17307475282352,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 53.66150702265851,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 56.314308853928615,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 59.83427654533768,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 61.169164880404814,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 63.8512811787716,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 66.47046101329353,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 70.49129190728033,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 72.62182759901242,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 74.98873455488145,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 78.62205000128992,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 81.27222640099109,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 85.33916554948435,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 87.81956730303067,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 91.4517413822815,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 95.55021373696661,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 98.58556484325035,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 102.26469566534003,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 103.70981156733544,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 106.53068427330913,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 111.26405464124599,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 114.736262114893,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 117.5479423659321,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 121.77777377321465,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 125.19137401713017,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 129.2048626216544,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 132.09946459972008,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 136.8806732744615,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 140.25051536431764,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 144.02902486869436,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 149.54230609522259,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 154.37560422136562,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 157.54516477080355,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 161.4793022308564,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 165.98216402474407,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 169.82461721419563,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 171.62407035572338,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 174.05777403618734,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 174.24599223923937,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 175.39358675056786,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 176.10373587486816,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 177.17868506703502,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 177.82451544214578,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 180.0,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 177.2223583128148,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 177.18886865418608,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 176.87304880060123,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 175.36206935797284,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 175.71136540865135,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 173.8699006658663,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 173.58534645954995,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 172.40817703670734,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 172.2207506131433,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 171.85943215948308,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 172.16132217873036,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 171.70728558665448,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 171.96196097209187,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 170.4014312085496,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 170.97744066333934,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 170.73073581794569,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 170.2461060382378,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 170.62846554544774,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 171.01706949664364,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 170.0222275024286,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 170.00020368632468,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 169.71077977276428,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 170.94802332303297,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 170.91846165182164,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 171.91626779344605,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 172.51589161438557,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 172.3600116833701,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 172.42250909786944,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 171.13787063485594,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 170.42927252821116,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 170.97127957952947,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 169.9640485931807,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 168.43335637865638,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 167.023651580581,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 166.41250119718754,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 164.48989839945685,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 163.87161473845728,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 164.2811226115667,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 163.70033119844288,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 163.05778871687352,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 162.46161988436847,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 163.9079533151386,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 163.42970973809912,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 161.43408566029223,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 160.48112046698031,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 161.57324122551734,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 160.1506658878273,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 160.46657913977396,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 160.2033602231927,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 160.78261994087248,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 161.77742294167194,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 163.04439285641544,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 164.19970219341107,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 161.07641617375927,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 164.08999555969535,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 163.35909524778148,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 162.03463194953366,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 162.56903846773739,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 164.9050974697217,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 162.5832066182084,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 163.09675877442658,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 164.03720797445274,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 164.60057774478813,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 164.89823280861052,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 166.40953861648057,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 166.00045403081543,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 167.13604862162722,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 168.06982995689313,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 166.93699211373377,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 167.38594508999861,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 166.42305774478095,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 166.43909445650843,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 167.37333480042608,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 166.41418375772574,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 165.84306061443712,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 166.67599339271052,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 166.20751280189012,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 166.60339597877024,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 166.35815331774845,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 166.3939869825537,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 167.77418583933837,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 166.63499781908988,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 168.4779536418586,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 167.33205722093896,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 166.21237401837263,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 166.72353240406858,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 166.21336930846257,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 164.44058846019104,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 165.88045912273375,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 165.95983234065724,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 165.46143055945635,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 166.57849930633287,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 166.53931717077893,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 163.99191434690667,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 163.51922697979492,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 162.19836462970662,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 164.51173337861246,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 166.82634035004423,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 167.32817732297008,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 166.81792863491603,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 166.71832879580984,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 165.814193512786,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 166.96174800504633,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 167.42460562370204,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 168.0957729351502,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 166.7366939937446,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 162.7688988038879,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 160.93908146010477,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 160.00128665176962,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 159.64066414560622,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 160.26184719142856,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 163.0276807421069,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 163.83910635055682,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 161.48529325518962,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 161.92157029664378,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 160.62074884825083,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 160.804041183857,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 162.46063044277327,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 162.34516706179525,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 162.2900139241844,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 160.7238418030939,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 161.46664982680605,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 160.42036474035868,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 161.53109083387886,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 162.05038865025287,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 161.3669385374635,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 162.03657347492472,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 162.9419096177846,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 163.34578406609288,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 162.08467113363085,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 161.42972778877512,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 163.35593113942895,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 162.692560125866,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 162.82973526690145,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 162.5905978479653,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 162.24351702032286,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 160.60236659992958,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 162.93893998345777,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 163.24882861935484,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 163.9384798204951,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 162.08911350951345,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 162.74864071980872,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 161.83863264135988,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 161.9074925940139,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 161.21289269246532,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 162.71040261322642,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 160.68106367377877,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 159.61147501250346,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 161.14756217815318,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 161.1998555797415,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 160.55945485435493,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 162.92519832418117,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 164.03694176813477,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 161.4292643678955,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 161.8173344006865,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 161.48819756610044,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 161.0090927060038,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 166.37073781851578,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 0,
+    "timestamp": 0.0,
+    "angle": 163.25144341382753,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 1,
+    "timestamp": 0.033578767123287674,
+    "angle": 164.1339154598068,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 163.4341640391769,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 163.9738287275744,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 166.0087686420978,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 166.99623694489532,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 169.8614838932805,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 165.94874029787908,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 167.1667409340537,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 166.69469683546512,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 167.02035874844603,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 166.92910922068833,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 167.02008822395297,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 166.31615728379376,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 165.60473372625125,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 166.24936548954415,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 166.66264992261006,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 165.48376146710947,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 165.3512355930876,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 165.65182696182444,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 165.68124483256798,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 165.01907101659015,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 164.7666249407096,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 166.05201608073,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 166.6177852619999,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 165.12182643882463,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 165.47472642600175,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 165.62382525078473,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 165.78264813830293,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 164.1094511231987,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 30,
+    "timestamp": 1.0073630136986302,
+    "angle": 163.65048286273404,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 164.05686375999156,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 164.7024923013459,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 164.96240742228653,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 166.39261779669832,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 35,
+    "timestamp": 1.1752568493150686,
+    "angle": 167.3589617512971,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 36,
+    "timestamp": 1.2088356164383562,
+    "angle": 166.51557155633066,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 37,
+    "timestamp": 1.242414383561644,
+    "angle": 166.69067506364112,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 38,
+    "timestamp": 1.2759931506849316,
+    "angle": 166.41212148472457,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 39,
+    "timestamp": 1.3095719178082192,
+    "angle": 162.71921409713013,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 40,
+    "timestamp": 1.343150684931507,
+    "angle": 164.87416958107758,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 41,
+    "timestamp": 1.3767294520547946,
+    "angle": 165.70534865801184,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 42,
+    "timestamp": 1.4103082191780822,
+    "angle": 164.7238376001046,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 43,
+    "timestamp": 1.44388698630137,
+    "angle": 165.16444968674926,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 44,
+    "timestamp": 1.4774657534246576,
+    "angle": 161.71728192827982,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 45,
+    "timestamp": 1.5110445205479452,
+    "angle": 165.01652157800527,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 46,
+    "timestamp": 1.544623287671233,
+    "angle": 163.84282806982185,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 47,
+    "timestamp": 1.5782020547945206,
+    "angle": 161.95219401646952,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 48,
+    "timestamp": 1.6117808219178082,
+    "angle": 161.94377680960972,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 49,
+    "timestamp": 1.645359589041096,
+    "angle": 161.305769854564,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 50,
+    "timestamp": 1.6789383561643836,
+    "angle": 160.67406213323636,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 161.62111068305188,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 162.63358577251367,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 161.98629363327436,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 161.823148316357,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 162.1081549546943,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 161.13849783845492,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 160.18737107859778,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 161.4959765202961,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 161.3233177378776,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 161.31447659627284,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 160.3600347427519,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 161.01494473959644,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 160.8683686006623,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 160.8286111555936,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 160.34861966642947,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 159.18010934826876,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 158.02397509652434,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 157.0841317069321,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 157.6505347396256,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 156.90683338717454,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 156.31873471797903,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 155.7825963929603,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 154.437953594119,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 155.49942639691707,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 154.89425516101943,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 155.66996409968255,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 154.92033480455788,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 155.10532000593628,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 154.90157901504386,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 155.70817615158717,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 154.9736726934403,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 155.21914732776256,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 155.7500352071297,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 156.20919544027754,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 155.26674170087026,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 155.04262034878573,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 156.13321269957643,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 154.9948115739558,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 154.10792992293707,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 154.68417015873112,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 155.61371495161686,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 152.86166444961697,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 154.41966044574022,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 154.0443706477251,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 154.58529937505642,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 155.1623919782492,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 154.45021197834717,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 154.8312727439634,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 154.64005914626242,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 153.6991910478996,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 154.2727739401722,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 154.38306367147274,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 153.21177901436275,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 154.7636016309584,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 154.40542538227922,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 156.01181645271885,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 156.55503874120674,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 157.61838498148344,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 159.50212900138158,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 157.2289638858687,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 156.68864799043658,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 157.06699643047662,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 157.64548078411107,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 156.73399661378338,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 155.98067032440295,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 156.02993731910155,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 157.13087807757154,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 118,
+    "timestamp": 3.962294520547945,
+    "angle": 158.67483366274578,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 119,
+    "timestamp": 3.995873287671233,
+    "angle": 155.75847459262667,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 120,
+    "timestamp": 4.029452054794521,
+    "angle": 157.10748038811678,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 121,
+    "timestamp": 4.063030821917808,
+    "angle": 158.6242200160239,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 122,
+    "timestamp": 4.096609589041096,
+    "angle": 157.10882488133342,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 123,
+    "timestamp": 4.130188356164384,
+    "angle": 156.96734989379286,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 124,
+    "timestamp": 4.163767123287672,
+    "angle": 157.10932483457637,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 125,
+    "timestamp": 4.197345890410959,
+    "angle": 155.21222571421146,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 126,
+    "timestamp": 4.2309246575342465,
+    "angle": 157.6194195381411,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 160.420715396967,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 160.17064365781127,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 161.2114184215925,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 160.22713892445051,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 160.82970145454206,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 160.97522753519846,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 163.9740490615631,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 163.4153220151252,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 163.62321045223408,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 166.53683745349474,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 170.3116879783965,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 170.87879751074894,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 172.21700450638403,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 173.86522093464407,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 174.46342797873766,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 174.1404435469861,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 174.49173001537454,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 173.29879330899567,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 173.9109076839347,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 173.19121994307193,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 173.60975947182948,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 173.5526023888621,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 172.23391807740146,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 172.105695079279,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 170.50406072632282,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 170.87875004803405,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 171.09227430674892,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 171.42478729036378,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 171.39269032242152,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 171.12440712927275,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 171.35537298284828,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 158,
+    "timestamp": 5.305445205479452,
+    "angle": 170.24875584911348,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 159,
+    "timestamp": 5.33902397260274,
+    "angle": 170.72976859857388,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 160,
+    "timestamp": 5.372602739726028,
+    "angle": 170.68992897446873,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 161,
+    "timestamp": 5.4061815068493155,
+    "angle": 169.07328362106406,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 162,
+    "timestamp": 5.4397602739726025,
+    "angle": 170.376052685093,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 163,
+    "timestamp": 5.47333904109589,
+    "angle": 169.58916561274737,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 164,
+    "timestamp": 5.506917808219178,
+    "angle": 169.1442894174966,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 168.5729928345128,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 168.43744997706062,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 169.14130128682268,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 168,
+    "timestamp": 5.641232876712329,
+    "angle": 168.34687620884966,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 169,
+    "timestamp": 5.674811643835617,
+    "angle": 168.91733348719993,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 170,
+    "timestamp": 5.708390410958904,
+    "angle": 168.6449366178659,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 171,
+    "timestamp": 5.741969178082192,
+    "angle": 168.51554272973786,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 172,
+    "timestamp": 5.77554794520548,
+    "angle": 168.83247479348944,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 173,
+    "timestamp": 5.8091267123287675,
+    "angle": 168.70616774671706,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 174,
+    "timestamp": 5.8427054794520545,
+    "angle": 167.93325608231243,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 175,
+    "timestamp": 5.876284246575342,
+    "angle": 168.01717945427285,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 176,
+    "timestamp": 5.90986301369863,
+    "angle": 168.64690933304672,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 177,
+    "timestamp": 5.943441780821918,
+    "angle": 167.53554540746205,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 178,
+    "timestamp": 5.977020547945205,
+    "angle": 167.5902067651061,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 179,
+    "timestamp": 6.010599315068493,
+    "angle": 167.36203142375356,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 180,
+    "timestamp": 6.044178082191781,
+    "angle": 168.18975842147626,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 181,
+    "timestamp": 6.077756849315069,
+    "angle": 168.5555190142046,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 182,
+    "timestamp": 6.111335616438356,
+    "angle": 169.75398588961096,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 183,
+    "timestamp": 6.144914383561644,
+    "angle": 169.31004960020508,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 184,
+    "timestamp": 6.178493150684932,
+    "angle": 170.18881287133036,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 185,
+    "timestamp": 6.2120719178082195,
+    "angle": 169.93472519353762,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 186,
+    "timestamp": 6.2456506849315065,
+    "angle": 168.30100840330522,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 168.05886167187023,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 188,
+    "timestamp": 6.312808219178082,
+    "angle": 168.64147033743512,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 189,
+    "timestamp": 6.34638698630137,
+    "angle": 167.77400316179234,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 190,
+    "timestamp": 6.379965753424658,
+    "angle": 166.59502586989964,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 191,
+    "timestamp": 6.413544520547945,
+    "angle": 164.65866315994404,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 192,
+    "timestamp": 6.447123287671233,
+    "angle": 163.0258373346459,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 193,
+    "timestamp": 6.480702054794521,
+    "angle": 159.7547397436026,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 194,
+    "timestamp": 6.514280821917809,
+    "angle": 157.05476866971014,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 195,
+    "timestamp": 6.547859589041096,
+    "angle": 153.91383063498677,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 196,
+    "timestamp": 6.581438356164384,
+    "angle": 151.86259260272294,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 146.92914973823528,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 198,
+    "timestamp": 6.648595890410959,
+    "angle": 140.4789665826707,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 199,
+    "timestamp": 6.682174657534246,
+    "angle": 135.32234653526828,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 200,
+    "timestamp": 6.715753424657534,
+    "angle": 131.24599065814323,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 201,
+    "timestamp": 6.749332191780822,
+    "angle": 125.07884929364053,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 202,
+    "timestamp": 6.78291095890411,
+    "angle": 120.47340575750195,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 203,
+    "timestamp": 6.816489726027397,
+    "angle": 115.17304527336705,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 204,
+    "timestamp": 6.850068493150685,
+    "angle": 110.27616349162224,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 106.32090093271395,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 100.99527124378409,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 96.6687042350336,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 90.64508877988516,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 94.01975125172459,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 98.54558034482415,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 74.9938696767544,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 72.1867652745834,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 68.38748912774973,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 64.6181240410832,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 62.46017573543349,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 60.60825072791626,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 57.29065659230351,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 55.17319971871272,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 53.21940638391336,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 51.939604622887934,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 50.11980611694108,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 50.235705234254716,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 50.52712079522985,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 50.36141006866078,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 50.174705948381295,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 49.17128825642992,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 49.38570310600856,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 49.14040959584739,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 48.7465987023808,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 48.65925713222743,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 48.59705409596606,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 48.83872238485668,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 48.72511022335804,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 49.561951593196504,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 48.260241401972046,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 48.09037495679434,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 48.03724101286809,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 49.668190454268554,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 48.18036850702577,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 50.441024408950796,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 49.81775917752215,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 50.5309307901439,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 50.371014842476825,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 53.14239727735939,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 56.78778507743755,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 60.57189266012842,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 66.2449851408197,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 71.63814731955354,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 77.9372375961876,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 94.65623338643269,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 90.89152479439815,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 97.28870379267443,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 103.5874913003841,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 112.62950313642799,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 255,
+    "timestamp": 8.562585616438357,
+    "angle": 122.99835610623592,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 256,
+    "timestamp": 8.596164383561645,
+    "angle": 131.19701666174763,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 257,
+    "timestamp": 8.629743150684932,
+    "angle": 137.75988525556008,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 145.40703897030298,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 259,
+    "timestamp": 8.696900684931506,
+    "angle": 150.86456476610934,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 260,
+    "timestamp": 8.730479452054794,
+    "angle": 157.84772345009316,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 261,
+    "timestamp": 8.764058219178082,
+    "angle": 162.6487499482911,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 262,
+    "timestamp": 8.79763698630137,
+    "angle": 166.72626057446882,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 263,
+    "timestamp": 8.831215753424658,
+    "angle": 168.69926711664831,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 197,
+    "timestamp": 6.6150171232876716,
+    "angle": 150.88883177589693,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 205,
+    "timestamp": 6.883647260273973,
+    "angle": 155.42434849883614,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 206,
+    "timestamp": 6.917226027397261,
+    "angle": 155.76846518990678,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 207,
+    "timestamp": 6.950804794520548,
+    "angle": 155.54153510572442,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 208,
+    "timestamp": 6.984383561643836,
+    "angle": 156.35553118463926,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 209,
+    "timestamp": 7.017962328767124,
+    "angle": 161.03203080062409,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 210,
+    "timestamp": 7.0515410958904114,
+    "angle": 160.65317238496115,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 211,
+    "timestamp": 7.0851198630136984,
+    "angle": 157.49197047222776,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 212,
+    "timestamp": 7.118698630136986,
+    "angle": 156.76168175165753,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 213,
+    "timestamp": 7.152277397260274,
+    "angle": 156.2317577504716,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 214,
+    "timestamp": 7.185856164383562,
+    "angle": 156.82218108759838,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 215,
+    "timestamp": 7.219434931506849,
+    "angle": 158.95174232971746,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 216,
+    "timestamp": 7.253013698630137,
+    "angle": 158.84116539064385,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 217,
+    "timestamp": 7.286592465753425,
+    "angle": 157.91988241157603,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 218,
+    "timestamp": 7.320171232876713,
+    "angle": 156.37550182604755,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 219,
+    "timestamp": 7.35375,
+    "angle": 157.34105930502474,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 220,
+    "timestamp": 7.387328767123288,
+    "angle": 154.9164150777661,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 221,
+    "timestamp": 7.420907534246576,
+    "angle": 156.5985492797833,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 222,
+    "timestamp": 7.4544863013698635,
+    "angle": 157.84711021196236,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 223,
+    "timestamp": 7.4880650684931505,
+    "angle": 156.2264253391045,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 224,
+    "timestamp": 7.521643835616438,
+    "angle": 158.71153138320292,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 225,
+    "timestamp": 7.555222602739726,
+    "angle": 159.141275954334,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 226,
+    "timestamp": 7.588801369863014,
+    "angle": 160.9020749790567,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 227,
+    "timestamp": 7.622380136986301,
+    "angle": 159.47905356578485,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 228,
+    "timestamp": 7.655958904109589,
+    "angle": 157.71808581886242,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 229,
+    "timestamp": 7.689537671232877,
+    "angle": 160.9463197536621,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 230,
+    "timestamp": 7.723116438356165,
+    "angle": 160.17033009492079,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 231,
+    "timestamp": 7.756695205479452,
+    "angle": 161.0576325194626,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 232,
+    "timestamp": 7.79027397260274,
+    "angle": 161.4049290832176,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 233,
+    "timestamp": 7.823852739726028,
+    "angle": 161.09518104112462,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 234,
+    "timestamp": 7.8574315068493155,
+    "angle": 159.1385031632897,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 235,
+    "timestamp": 7.891010273972603,
+    "angle": 162.05854131435686,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 236,
+    "timestamp": 7.92458904109589,
+    "angle": 163.02519554592723,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 237,
+    "timestamp": 7.958167808219178,
+    "angle": 162.6184103915282,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 238,
+    "timestamp": 7.991746575342466,
+    "angle": 161.03427560040856,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 239,
+    "timestamp": 8.025325342465754,
+    "angle": 162.211439038864,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 240,
+    "timestamp": 8.058904109589042,
+    "angle": 161.43820975595037,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 241,
+    "timestamp": 8.09248287671233,
+    "angle": 160.91275764229943,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 242,
+    "timestamp": 8.126061643835616,
+    "angle": 160.84380567431555,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 243,
+    "timestamp": 8.159640410958904,
+    "angle": 161.50972753230064,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 244,
+    "timestamp": 8.193219178082192,
+    "angle": 160.27754994438823,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 245,
+    "timestamp": 8.22679794520548,
+    "angle": 159.3774825955101,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 246,
+    "timestamp": 8.260376712328767,
+    "angle": 161.0388101701887,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 247,
+    "timestamp": 8.293955479452055,
+    "angle": 162.76388168166437,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 248,
+    "timestamp": 8.327534246575343,
+    "angle": 160.2557959451327,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 249,
+    "timestamp": 8.361113013698631,
+    "angle": 163.54706745912327,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 250,
+    "timestamp": 8.394691780821917,
+    "angle": 165.58028123116318,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 251,
+    "timestamp": 8.428270547945205,
+    "angle": 161.442237884146,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 252,
+    "timestamp": 8.461849315068493,
+    "angle": 161.3563850678288,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 253,
+    "timestamp": 8.495428082191781,
+    "angle": 160.7608244657812,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 254,
+    "timestamp": 8.529006849315069,
+    "angle": 160.25857360734432,
+    "detector": "mediapipe_2d_image"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 258,
+    "timestamp": 8.663321917808219,
+    "angle": 163.56629179747702,
+    "detector": "mediapipe_2d_image"
+  }
+]

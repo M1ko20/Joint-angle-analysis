@@ -138,7 +138,7 @@ class PoseDetector:
             if not YOLO_AVAILABLE:
                 raise ImportError("YOLO není k dispozici")
             self._init_yolo()
-        elif self.detector_type in ["vitpose", "vitpose_base", "vitpose_large"]: # "vitpose_huge"
+        elif self.detector_type in ["vitpose", "vitpose_base", "vitpose_large", "vitpose_huge"]: # "vitpose_huge"
             if not VITPOSE_AVAILABLE:
                 raise ImportError("ViTPose není k dispozici")
             self._init_vitpose()
@@ -244,8 +244,8 @@ class PoseDetector:
         # Určení modelu podle detector_type
         if self.detector_type == "vitpose_large":
             model_name = "usyd-community/vitpose-plus-large"
-        #elif self.detector_type == "vitpose_huge":
-         #   model_name = "usyd-community/vitpose-plus-huge"
+        elif self.detector_type == "vitpose_huge":
+            model_name = "usyd-community/vitpose-plus-huge"
         elif self.detector_type == "vitpose_base":
             model_name = "usyd-community/vitpose-base-simple"
         else:  # Default "vitpose"

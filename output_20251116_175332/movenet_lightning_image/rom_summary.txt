@@ -1,0 +1,15 @@
+RANGE OF MOTION (ROM) SUMMARY
+================================================================================
+Detector: movenet_lightning_image
+Generated: 2025-11-16 17:58:51
+
+Joint                Min°       Max°       ROM°       Avg°       N         
+--------------------------------------------------------------------------------
+left_elbow           N/A        N/A        N/A        N/A                0
+left_hip                 55.13    180.00    124.87    125.37         5
+left_knee               142.51    173.48     30.98    162.12         9
+left_shoulder        N/A        N/A        N/A        N/A                0
+right_elbow          N/A        N/A        N/A        N/A                0
+right_hip                43.08    180.00    136.92    123.34        29
+right_knee              141.31    172.68     31.37    159.04        35
+right_shoulder           55.40     62.82      7.42     58.96        10

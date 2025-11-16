@@ -99,3 +99,14 @@ logs/
 # ============================================
 Thumbs.db
 desktop.ini
+PoseFormerV2
+RTMPose
+td-hm_hrnet-w48_8xb32-210e_coco-256x192-0e67c616_20220913.pth
+td-hm_hrnet-w48_8xb32-210e_coco-256x192.py 
+venvMediapipe
+venvMmpose
+venvMovenet
+venvPoseFormerv2
+venvVitpose
+venvYolo
+mmpose

@@ -1,0 +1,3313 @@
+[
+  {
+    "joint": "right_elbow",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 133.57972717285156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 136.2361297607422,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 141.16819763183594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 140.10020446777344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 134.38751220703125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 134.76588439941406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 134.15968322753906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 31,
+    "timestamp": 1.040941780821918,
+    "angle": 132.76954650878906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 128.3300018310547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 139.29058837890625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 133.1846923828125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 130.16390991210938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 130.8627471923828,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 131.8689422607422,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 136.21665954589844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 143.69480895996094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 143.7653350830078,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 154.87063598632812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 151.53945922851562,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 148.6980743408203,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 158.78036499023438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_elbow",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 158.60791015625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 9.086076736450195,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 12.060979843139648,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 14.67629337310791,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 10.724126815795898,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 19.328157424926758,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 18.896591186523438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 20.071514129638672,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 20.576749801635742,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 20.24872398376465,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 19.752796173095703,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 21.263744354248047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 30.422945022583008,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 31.37510108947754,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 55.414031982421875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 56.613067626953125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 58.799407958984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 59.660064697265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 59.650482177734375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 58.478302001953125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 57.6517333984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 60.551483154296875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 59.46771240234375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 60.255828857421875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 64.47921752929688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 62.702606201171875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 64.07144165039062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 62.8109130859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 63.161956787109375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 62.848968505859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 60.613922119140625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 62.093963623046875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 62.326202392578125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 67.85659790039062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 67.01702880859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 69.53634643554688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 68.0328369140625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 67.81808471679688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 69.48715209960938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 67.80691528320312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 67.85977172851562,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 67.79315185546875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 67.73748779296875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 66.96878051757812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 67.58819580078125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 67.76754760742188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 67.94277954101562,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 68.92816162109375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 69.70004272460938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 68.80194091796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 69.22415161132812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 70.5634765625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 67.82086181640625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 67.8397216796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 69.240234375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 68.34500122070312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 69.28341674804688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 66.82720947265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 68.53262329101562,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 66.96725463867188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 68.07357788085938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 66.84130859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 66.13302612304688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 67.81430053710938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 62.845428466796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 62.408782958984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 62.05279541015625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 59.898895263671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 60.414947509765625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 59.76556396484375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 61.204376220703125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 56.60040283203125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 58.13824462890625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 55.313323974609375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 53.005950927734375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 52.50120162963867,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 47.681549072265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 45.74348068237305,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 44.80654525756836,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 25.797069549560547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 24.07836151123047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 23.629003524780273,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 24.197071075439453,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 22.245126724243164,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 19.642932891845703,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 17.185869216918945,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 16.377235412597656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 17.702688217163086,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 15.686101913452148,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 16.364093780517578,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 2.2495431900024414,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 2.5354344844818115,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_shoulder",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 2.609015941619873,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_shoulder",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 70.15496826171875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 168.6534881591797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 161.04737854003906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 154.4378662109375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 152.67982482910156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 146.6089630126953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 144.07359313964844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 141.36810302734375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 137.97564697265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 134.9233856201172,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 21,
+    "timestamp": 0.7051541095890411,
+    "angle": 142.47935485839844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 22,
+    "timestamp": 0.7387328767123288,
+    "angle": 130.82664489746094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 125.92015838623047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 124.48513793945312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 123.29161834716797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 121.03807830810547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 117.17194366455078,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 113.00848388671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 98.00640869140625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 99.92730712890625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 60.72711181640625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 64.28141784667969,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 61.55423355102539,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 60.04195022583008,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 58.80210494995117,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 58.083927154541016,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 55.50648880004883,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 52.568817138671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 51.31658935546875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 52.904170989990234,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 51.02309799194336,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 49.458900451660156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 49.9137077331543,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 49.78041076660156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 48.24559783935547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 48.2603874206543,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 47.379600524902344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 47.415496826171875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 47.62030029296875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 47.04353332519531,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 44.060791015625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 47.03953170776367,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 43.38264846801758,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 44.64162063598633,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 43.91073226928711,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 43.24676513671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 43.36746597290039,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 43.018428802490234,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 42.91322326660156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 42.95957946777344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 41.90102767944336,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 42.6252326965332,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 42.229984283447266,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 43.019691467285156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 42.97513198852539,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 43.773799896240234,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 43.2873649597168,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 42.03876876831055,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 42.4171257019043,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 43.282379150390625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 43.159793853759766,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 41.41746520996094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 42.194766998291016,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 43.41582107543945,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 42.62472915649414,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 42.31190490722656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 42.80971145629883,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 43.95311737060547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 43.67290115356445,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 43.0120735168457,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 44.8582763671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 44.74666213989258,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 45.516719818115234,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 48.45560836791992,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 48.81438446044922,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 49.533111572265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 51.79414749145508,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 54.75841522216797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 56.54224395751953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 58.41031265258789,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 61.517208099365234,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 64.0851058959961,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 66.95026397705078,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 71.9996566772461,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 75.54103088378906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 114.60686492919922,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 115.30262756347656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 117.74127960205078,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 130,
+    "timestamp": 4.365239726027397,
+    "angle": 124.16273498535156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 124.36730194091797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 131.6723175048828,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 139.59262084960938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 144.92263793945312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 145.7291259765625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 151.56614685058594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 152.8445281982422,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 156.01473999023438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 158.59405517578125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 163.8008575439453,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 168.018798828125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 172.94898986816406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 174.41648864746094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 174.77528381347656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 176.9285888671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 176.77511596679688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 175.45567321777344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 174.64309692382812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_hip",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 172.1236572265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 161.9200897216797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 161.4862518310547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 158.42376708984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 156.71795654296875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 148.91510009765625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 148.29196166992188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 143.5439910888672,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 143.08685302734375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 134.3754425048828,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 23,
+    "timestamp": 0.7723116438356165,
+    "angle": 126.98239135742188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 24,
+    "timestamp": 0.8058904109589041,
+    "angle": 125.3488540649414,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 25,
+    "timestamp": 0.8394691780821918,
+    "angle": 122.14811706542969,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 26,
+    "timestamp": 0.8730479452054795,
+    "angle": 120.16118621826172,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 27,
+    "timestamp": 0.9066267123287671,
+    "angle": 117.70378112792969,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 28,
+    "timestamp": 0.9402054794520548,
+    "angle": 114.06748962402344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 29,
+    "timestamp": 0.9737842465753425,
+    "angle": 109.23900604248047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 32,
+    "timestamp": 1.0745205479452056,
+    "angle": 103.02906799316406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 100.25679016113281,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 66.25523376464844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 64.2896957397461,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 59.682960510253906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 60.004459381103516,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 57.37358474731445,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 55.8151741027832,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 52.759708404541016,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 49.10493850708008,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 50.74870300292969,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 45.92715835571289,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 45.8253059387207,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 47.65001678466797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 48.445499420166016,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 45.169921875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 45.570655822753906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 43.97787094116211,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 43.773826599121094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 42.53592300415039,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 42.09564208984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 36.74314880371094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 41.5230598449707,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 40.624229431152344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 41.695560455322266,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 40.8771858215332,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 42.588111877441406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 36.744937896728516,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 40.03676986694336,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 40.46756362915039,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 41.5982551574707,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 40.777183532714844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 38.045326232910156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 46.0149040222168,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 45.55699157714844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 49.786136627197266,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 53.421913146972656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 54.340423583984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 59.20581817626953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 62.45709228515625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 63.25431823730469,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 67.7459945678711,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 72.11144256591797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 116.7157974243164,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 117.13081359863281,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 122.74615478515625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 127.50472259521484,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 133.95065307617188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 139.2158660888672,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 148.42837524414062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 148.87962341308594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 151.29879760742188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 158.30072021484375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 158.5787811279297,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 163.40296936035156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 170.5337371826172,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 171.334716796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 169.57904052734375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 176.4486541748047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 176.48106384277344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 176.2256317138672,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 150,
+    "timestamp": 5.0368150684931505,
+    "angle": 174.65908813476562,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 180.0,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 180.0,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 153,
+    "timestamp": 5.137551369863014,
+    "angle": 175.54762268066406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 154,
+    "timestamp": 5.171130136986301,
+    "angle": 180.0,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 176.32225036621094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 173.35426330566406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_hip",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 170.41192626953125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 2,
+    "timestamp": 0.06715753424657535,
+    "angle": 165.33152770996094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 164.8681182861328,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 4,
+    "timestamp": 0.1343150684931507,
+    "angle": 166.66708374023438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 5,
+    "timestamp": 0.16789383561643836,
+    "angle": 167.52232360839844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 6,
+    "timestamp": 0.20147260273972603,
+    "angle": 167.61831665039062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 166.65997314453125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 164.3435516357422,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 163.60955810546875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 10,
+    "timestamp": 0.3357876712328767,
+    "angle": 163.4104461669922,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 11,
+    "timestamp": 0.3693664383561644,
+    "angle": 165.34434509277344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 13,
+    "timestamp": 0.43652397260273973,
+    "angle": 162.06448364257812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 160.38780212402344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 159.335205078125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 17,
+    "timestamp": 0.5708390410958905,
+    "angle": 160.68118286132812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 18,
+    "timestamp": 0.6044178082191781,
+    "angle": 159.70452880859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 159.16578674316406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 158.2873077392578,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 159.1328125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 144.4171142578125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 153.8464813232422,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 53,
+    "timestamp": 1.7796746575342466,
+    "angle": 149.72975158691406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 150.90261840820312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 149.8207244873047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 149.9448699951172,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 147.54856872558594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 58,
+    "timestamp": 1.947568493150685,
+    "angle": 147.27389526367188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 59,
+    "timestamp": 1.9811472602739726,
+    "angle": 145.24984741210938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 147.96249389648438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 61,
+    "timestamp": 2.048304794520548,
+    "angle": 148.35165405273438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 62,
+    "timestamp": 2.081883561643836,
+    "angle": 147.6713409423828,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 63,
+    "timestamp": 2.1154623287671233,
+    "angle": 150.347412109375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 64,
+    "timestamp": 2.149041095890411,
+    "angle": 151.2427978515625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 65,
+    "timestamp": 2.1826198630136986,
+    "angle": 150.17518615722656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 66,
+    "timestamp": 2.2161986301369865,
+    "angle": 149.09161376953125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 67,
+    "timestamp": 2.249777397260274,
+    "angle": 153.05674743652344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 68,
+    "timestamp": 2.283356164383562,
+    "angle": 151.76283264160156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 69,
+    "timestamp": 2.3169349315068493,
+    "angle": 152.57373046875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 70,
+    "timestamp": 2.350513698630137,
+    "angle": 152.7259521484375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 71,
+    "timestamp": 2.3840924657534246,
+    "angle": 152.18641662597656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 72,
+    "timestamp": 2.4176712328767125,
+    "angle": 150.65296936035156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 73,
+    "timestamp": 2.45125,
+    "angle": 154.77444458007812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 74,
+    "timestamp": 2.484828767123288,
+    "angle": 151.3505401611328,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 75,
+    "timestamp": 2.5184075342465753,
+    "angle": 151.41357421875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 76,
+    "timestamp": 2.551986301369863,
+    "angle": 152.4886474609375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 77,
+    "timestamp": 2.5855650684931506,
+    "angle": 150.04835510253906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 78,
+    "timestamp": 2.6191438356164385,
+    "angle": 153.984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 79,
+    "timestamp": 2.652722602739726,
+    "angle": 149.3407745361328,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 80,
+    "timestamp": 2.686301369863014,
+    "angle": 150.25473022460938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 81,
+    "timestamp": 2.7198801369863013,
+    "angle": 151.14730834960938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 82,
+    "timestamp": 2.753458904109589,
+    "angle": 150.45211791992188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 83,
+    "timestamp": 2.7870376712328766,
+    "angle": 149.960205078125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 84,
+    "timestamp": 2.8206164383561645,
+    "angle": 149.41781616210938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 85,
+    "timestamp": 2.854195205479452,
+    "angle": 153.16810607910156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 86,
+    "timestamp": 2.88777397260274,
+    "angle": 151.3128204345703,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 87,
+    "timestamp": 2.9213527397260273,
+    "angle": 153.63511657714844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 88,
+    "timestamp": 2.954931506849315,
+    "angle": 151.77259826660156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 89,
+    "timestamp": 2.9885102739726026,
+    "angle": 150.69842529296875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 90,
+    "timestamp": 3.0220890410958905,
+    "angle": 149.5922088623047,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 91,
+    "timestamp": 3.055667808219178,
+    "angle": 151.79737854003906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 92,
+    "timestamp": 3.089246575342466,
+    "angle": 152.80157470703125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 93,
+    "timestamp": 3.1228253424657533,
+    "angle": 149.95486450195312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 94,
+    "timestamp": 3.156404109589041,
+    "angle": 151.05255126953125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 152.79185485839844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 96,
+    "timestamp": 3.2235616438356165,
+    "angle": 150.99073791503906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 97,
+    "timestamp": 3.2571404109589044,
+    "angle": 150.90695190429688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 98,
+    "timestamp": 3.290719178082192,
+    "angle": 152.92523193359375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 99,
+    "timestamp": 3.3242979452054797,
+    "angle": 153.063232421875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 100,
+    "timestamp": 3.357876712328767,
+    "angle": 153.38502502441406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 101,
+    "timestamp": 3.391455479452055,
+    "angle": 150.63226318359375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 102,
+    "timestamp": 3.4250342465753425,
+    "angle": 153.29721069335938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 103,
+    "timestamp": 3.4586130136986304,
+    "angle": 149.09767150878906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 104,
+    "timestamp": 3.492191780821918,
+    "angle": 150.90167236328125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 105,
+    "timestamp": 3.5257705479452057,
+    "angle": 150.95657348632812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 106,
+    "timestamp": 3.559349315068493,
+    "angle": 149.32664489746094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 107,
+    "timestamp": 3.592928082191781,
+    "angle": 149.23992919921875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 108,
+    "timestamp": 3.6265068493150685,
+    "angle": 149.1082763671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 149.27227783203125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 149.81607055664062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 149.77621459960938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 149.74205017089844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 147.91058349609375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 148.3341522216797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 150.01243591308594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 151.09274291992188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 152.8976287841797,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 153.675048828125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 152.57693481445312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 156.00506591796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 160.52243041992188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 163.1384735107422,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 161.95738220214844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 163.39891052246094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 137,
+    "timestamp": 4.600291095890411,
+    "angle": 161.68357849121094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 162.37643432617188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 162.69070434570312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 167.9868927001953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 169.7879638671875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 166.82594299316406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 166.11131286621094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 168.24575805664062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 164.91207885742188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 165.41954040527344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 168.46060180664062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 165.5074005126953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 149,
+    "timestamp": 5.0032363013698635,
+    "angle": 167.81556701660156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 155,
+    "timestamp": 5.204708904109589,
+    "angle": 166.73439025878906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 166.28248596191406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 157,
+    "timestamp": 5.271866438356165,
+    "angle": 164.68397521972656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 166.1698455810547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 166.34849548339844,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 167,
+    "timestamp": 5.607654109589041,
+    "angle": 164.5503692626953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "right_knee",
+    "frame": 187,
+    "timestamp": 6.279229452054794,
+    "angle": 166.79412841796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 3,
+    "timestamp": 0.10073630136986302,
+    "angle": 167.70469665527344,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 7,
+    "timestamp": 0.2350513698630137,
+    "angle": 169.4288330078125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 8,
+    "timestamp": 0.2686301369863014,
+    "angle": 170.59803771972656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 9,
+    "timestamp": 0.30220890410958906,
+    "angle": 169.48822021484375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 12,
+    "timestamp": 0.40294520547945206,
+    "angle": 168.9945068359375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 14,
+    "timestamp": 0.4701027397260274,
+    "angle": 165.849853515625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 15,
+    "timestamp": 0.5036815068493151,
+    "angle": 161.76295471191406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 16,
+    "timestamp": 0.5372602739726028,
+    "angle": 163.71780395507812,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 19,
+    "timestamp": 0.6379965753424658,
+    "angle": 163.9256591796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 20,
+    "timestamp": 0.6715753424657535,
+    "angle": 163.98309326171875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 33,
+    "timestamp": 1.1080993150684932,
+    "angle": 159.44435119628906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 34,
+    "timestamp": 1.141678082191781,
+    "angle": 159.93966674804688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 51,
+    "timestamp": 1.7125171232876713,
+    "angle": 145.13882446289062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 52,
+    "timestamp": 1.746095890410959,
+    "angle": 156.05670166015625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 54,
+    "timestamp": 1.8132534246575343,
+    "angle": 155.05116271972656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 55,
+    "timestamp": 1.846832191780822,
+    "angle": 154.5897216796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 56,
+    "timestamp": 1.8804109589041096,
+    "angle": 151.62547302246094,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 57,
+    "timestamp": 1.9139897260273973,
+    "angle": 150.06324768066406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 60,
+    "timestamp": 2.0147260273972605,
+    "angle": 143.09498596191406,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 95,
+    "timestamp": 3.189982876712329,
+    "angle": 155.38038635253906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 109,
+    "timestamp": 3.6600856164383564,
+    "angle": 149.28089904785156,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 110,
+    "timestamp": 3.693664383561644,
+    "angle": 149.0575714111328,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 111,
+    "timestamp": 3.7272431506849317,
+    "angle": 154.86163330078125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 112,
+    "timestamp": 3.760821917808219,
+    "angle": 155.04026794433594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 113,
+    "timestamp": 3.794400684931507,
+    "angle": 148.65939331054688,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 114,
+    "timestamp": 3.8279794520547945,
+    "angle": 153.4359893798828,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 115,
+    "timestamp": 3.8615582191780824,
+    "angle": 155.98162841796875,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 116,
+    "timestamp": 3.89513698630137,
+    "angle": 158.51536560058594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 117,
+    "timestamp": 3.9287157534246577,
+    "angle": 160.01333618164062,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 127,
+    "timestamp": 4.264503424657534,
+    "angle": 149.2850799560547,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 128,
+    "timestamp": 4.298082191780822,
+    "angle": 153.1125946044922,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 129,
+    "timestamp": 4.331660958904109,
+    "angle": 158.18821716308594,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 131,
+    "timestamp": 4.398818493150685,
+    "angle": 155.58786010742188,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 132,
+    "timestamp": 4.432397260273973,
+    "angle": 159.09173583984375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 133,
+    "timestamp": 4.46597602739726,
+    "angle": 161.90570068359375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 134,
+    "timestamp": 4.499554794520548,
+    "angle": 162.18341064453125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 135,
+    "timestamp": 4.533133561643836,
+    "angle": 162.0987091064453,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 136,
+    "timestamp": 4.566712328767124,
+    "angle": 165.3156280517578,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 138,
+    "timestamp": 4.6338698630136985,
+    "angle": 168.08497619628906,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 139,
+    "timestamp": 4.667448630136986,
+    "angle": 167.0377197265625,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 140,
+    "timestamp": 4.701027397260274,
+    "angle": 170.12286376953125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 141,
+    "timestamp": 4.734606164383562,
+    "angle": 174.187255859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 142,
+    "timestamp": 4.768184931506849,
+    "angle": 176.31039428710938,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 143,
+    "timestamp": 4.801763698630137,
+    "angle": 176.259033203125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 144,
+    "timestamp": 4.835342465753425,
+    "angle": 172.7834930419922,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 145,
+    "timestamp": 4.868921232876713,
+    "angle": 173.7749786376953,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 146,
+    "timestamp": 4.9025,
+    "angle": 174.79920959472656,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 147,
+    "timestamp": 4.936078767123288,
+    "angle": 173.29159545898438,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 148,
+    "timestamp": 4.969657534246576,
+    "angle": 174.2771759033203,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 151,
+    "timestamp": 5.070393835616438,
+    "angle": 171.5542449951172,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 152,
+    "timestamp": 5.103972602739726,
+    "angle": 169.25955200195312,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 156,
+    "timestamp": 5.238287671232877,
+    "angle": 168.73809814453125,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 165,
+    "timestamp": 5.540496575342466,
+    "angle": 168.87249755859375,
+    "detector": "movenet_lightning_video"
+  },
+  {
+    "joint": "left_knee",
+    "frame": 166,
+    "timestamp": 5.574075342465753,
+    "angle": 168.3592071533203,
+    "detector": "movenet_lightning_video"
+  }
+]
